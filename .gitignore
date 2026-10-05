@@ -1,0 +1,13 @@
+# Ambientes virtuais e pacotes
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de configurações e credenciais locais
+.env
+.streamlit/secrets.toml
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
