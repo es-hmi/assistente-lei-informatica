@@ -36,25 +36,48 @@ def extract_text_from_files(directory=DOCS_DIR):
     return context
 
 def generate_rag_response(query, context):
-    """Gera uma resposta baseada no contexto extraído dos documentos."""
+    """Gera uma resposta baseada nos parágrafos mais relevantes do contexto."""
     if not context.strip():
         return "⚠️ Nenhum documento ativo na base de conhecimento. Faça o upload de um PDF ou TXT na barra lateral."
     
-    query_words = [w.lower() for w in query.split() if len(w) > 3]
-    matches = []
+    # Lista de palavras de ligação irrelevantes para a busca (stopwords)
+    stopwords = {
+        "como", "onde", "qual", "quais", "quem", "sobre", "para", "com", 
+        "uma", "esse", "essa", "esta", "tipos", "sao", "estao", "quaisque"
+    }
     
-    paragraphs = context.split("\n\n")
+    # Mantém palavras e siglas técnicas com 2 ou mais letras (ex: RDA, P&D, PPB)
+    words = [w.lower().strip("?,.!") for w in query.split()]
+    query_words = [w for w in words if w not in stopwords and len(w) >= 2]
+    
+    if not query_words:
+        return "Por favor, digite uma pergunta com termos mais específicos para a busca."
+
+    # Divide o documento em parágrafos reais (blocos de texto)
+    paragraphs = [p.strip() for p in context.split("\n\n") if len(p.strip()) > 50]
+    
+    scored_paragraphs = []
     for p in paragraphs:
-        if any(word in p.lower() for word in query_words):
-            matches.append(p.strip())
-            if len(matches) >= 3:
-                break
+        # CORREÇÃO 1: Ignora linhas/blocos típicos de sumário com pontos corridos
+        if "........" in p or "SUMÁRIO" in p.upper():
+            continue
+            
+        p_lower = p.lower()
+        # CORREÇÃO 2: Pontua o parágrafo pela quantidade de palavras-chave encontradas
+        score = sum(1 for word in query_words if word in p_lower)
+        if score > 0:
+            scored_paragraphs.append((score, p))
     
-    if matches:
-        response_text = "\n\n".join(matches)
-        return f"📖 **Análise baseada nos documentos ativos:**\n\n{response_text[:1500]}"
+    # Ordena os parágrafos do mais relevante para o menos relevante
+    scored_paragraphs.sort(key=lambda x: x[0], reverse=True)
+    
+    if scored_paragraphs:
+        # Seleciona os 3 parágrafos com maior pontuação
+        best_matches = [p for score, p in scored_paragraphs[:3]]
+        response_text = "\n\n---\n\n".join(best_matches)
+        return f"📖 **Trechos mais relevantes encontrados no documento:**\n\n{response_text[:2000]}"
     else:
-        return f"🔍 Não encontrei informações diretamente relacionadas a '{query}' nos documentos ativos da base."
+        return f"🔍 Busquei pelos termos `{query_words}`, mas não encontrei trechos correspondentes nos documentos ativos."
 
 # --- INTERFACE STREAMLIT ---
 
@@ -75,12 +98,24 @@ with st.sidebar:
             st.success(f"Documento '{uploaded_file.name}' adicionado com sucesso!")
     
     st.subheader("📋 Documentos Ativos na Memória")
-    active_files = os.listdir(DOCS_DIR)
+    # Lista e gerenciamento de exclusão de arquivos ativos
+    active_files = [f for f in os.listdir(DOCS_DIR) if not f.startswith(".")]
+    
     if active_files:
         for file in active_files:
-            st.write(f"- 📄 {file}")
+            col1, col2 = st.columns([0.8, 0.2])
+            with col1:
+                st.write(f"📄 {file}")
+            with col2:
+                # Botão de apagar para cada arquivo individual
+                if st.button("🗑️", key=f"del_{file}", help=f"Excluir {file}"):
+                    file_path = os.path.join(DOCS_DIR, file)
+                    if os.path.exists(file_path):
+                        os.remove(file_path)
+                        st.toast(f"Arquivo '{file}' removido com sucesso!")
+                        st.rerun()
     else:
-        st.info("Nenhum arquivo na pasta 'docs'.")
+        st.info("Nenhum documento cadastrado na pasta `docs/`.")
 
 # Área Principal - Chatbot
 st.title("🤖 Assistente Virtual - Lei de Informática")
