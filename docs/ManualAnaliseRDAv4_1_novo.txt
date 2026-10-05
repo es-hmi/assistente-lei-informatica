@@ -1,0 +1,1256 @@
+MINISTÉRIO DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+MANUAL DE ANÁLISE DO RELATÓRIO DEMONSTRATIVO ANUAL (RDA)
+(Lei nº 8.248/1991 e Lei nº 13.969/2019)
+
+(Transcrição em texto puro do arquivo ManualAnaliseRDAv4_1.pdf. A numeração "[Página N]" corresponde às páginas do PDF.)
+
+
+================================================================
+[Página 2-3] SUMÁRIO
+================================================================
+
+VERSÃO DO DOCUMENTO ........ 4
+1. INTRODUÇÃO ........ 5
+2. ESCOPO ........ 6
+3. CONCEITOS E DEFINIÇÕES ........ 6
+4. AVALIAÇÃO DOS REQUISITOS PARA FRUIÇÃO DOS BENEFÍCIOS ........ 9
+5. AVALIAÇÃO DO PROCESSO PRODUTIVO BÁSICO – PPB ........ 10
+5.1. AVALIAÇÃO DO CUMPRIMENTO DO PROCESSO PRODUTIVO BÁSICO – PPB ........ 10
+5.2. PPB DE PRODUTO INCENTIVADO SEM META DE PONTUAÇÃO DEFINIDA POR PORTARIA ........ 12
+5.3. ORIENTAÇÕES GERAIS SOBRE A DECLARAÇÃO E AVALIAÇÃO DO PPB ........ 12
+5.4. PROCEDIMENTOS DE AUDITORIA DO PROCESSO PRODUTIVO BÁSICO-PPB ........ 13
+6. METODOLOGIA PARA ANÁLISE DOS RELATÓRIOS DEMONSTRATIVOS (RDAs) ........ 13
+6.1. PRÉ-ANÁLISE ........ 14
+6.2. MODELO DE REFERÊNCIA PARA ENQUADRAMENTO DAS ATIVIDADES DE PD&I ........ 15
+6.3. PROJETOS DE PD&I STRICTO SENSU ........ 15
+6.4. PROJETOS PD&I DE FORMAÇÃO E CAPACITAÇÃO ........ 18
+6.5. MÉTODO DE ANÁLISE DAS ATIVIDADES DE PD&I EM TICs ........ 20
+6.6. MODELO DE REFERÊNCIA PARA ANÁLISE DE DISPÊNDIOS DAS ATIVIDADES DE PD&I EM TICs ........ 22
+6.7. MÉTODO DE ANÁLISE DE DISPÊNDIOS DAS ATIVIDADES DE PD&I EM TICs ........ 22
+6.8. AVALIAÇÃO DE GERAÇÃO DO CRÉDITO FINANCEIRO DECORRENTE DE INVESTIMENTOS EM PD&I - LEI Nº 13.969/2019 ........ 23
+6.9. AVALIAÇÃO DO CUMPRIMENTO DAS OBRIGAÇÕES DE INVESTIMENTOS EM PD&I - LEI Nº 13.969/2019 ........ 25
+6.10. APLICAÇÕES OBRIGATÓRIAS EM PD&I ........ 26
+6.11. AVALIAÇÃO DE APLICAÇÕES EM PD&I NA MODALIDADE DE ASSOCIAÇÃO TECNOLÓGICA DOS CENTROS DE COMPETÊNCIA EMBRAPII ........ 28
+6.12. PRODUÇÃO TERCEIRIZADA-ASSUNÇÃO ........ 29
+6.13. FUNDOS DE INVESTIMENTOS EM PARTICIPAÇÕES-FIPs ........ 30
+7. ORIENTAÇÕES PRÁTICAS PARA O ENQUADRAMENTO COMO PD&I ........ 32
+7.1. INCONSISTÊNCIAS DE DATAS DE INÍCIO E FIM DE PROJETO ........ 32
+7.2. PROJETOS CONTINUADOS ........ 32
+7.3. PROJETOS IGUAIS OU MUITO SEMELHANTES NO MESMO ANO OU NÃO ........ 33
+7.4. PROJETOS DE PROCESSO PRODUTIVO ........ 34
+7.5. ENSAIOS E TESTES ........ 35
+7.6. ADEQUAÇÃO A NORMAS, PADRÕES DE FUNCIONAMENTO E PROTOCOLOS ........ 35
+7.7. PROJETOS DE LABORATÓRIOS ........ 36
+7.8. PROJETOS DE FORMAÇÃO E CAPACITAÇÃO ........ 37
+8. ORIENTAÇÕES PRÁTICAS PARA TRATAMENTO DOS DISPÊNDIOS ........ 38
+9. DISPÊNDIOS COM AUDITORIA INDEPENDENTE ........ 48
+10. DISPÊNDIOS COM FUNDO DE INVESTIMENTO À CAPITALIZAÇÃO DE EMPRESAS DE BASE TECNOLÓGICA – FIP ........ 48
+
+
+================================================================
+[Página 4] VERSÃO DO DOCUMENTO
+================================================================
+
+Data: Jan/24
+Versão: 4
+Atualização:
+- Atualização da nomenclatura do MCTI e Secretaria de Ciência e Tecnologia para Transformação Digital – SETAD.
+- Orientações sobre compensação de obrigação de investimento em PD&I.
+- Inclusão de orientações para análise de custos de patentes em projetos de PD&I.
+- Ajustes das orientações para análise do RDA apresentado no formato Simplificado.
+- Inclusão de orientações para apresentação de informações sobre investimento em FIP.
+- Incluída orientação sobre investimentos realizados no primeiro trimestre do ano-base para fins de geração de crédito (seção 6.11)
+
+
+================================================================
+[Página 5] 1. INTRODUÇÃO
+================================================================
+
+A Lei nº 8.248, de 23 de outubro de 1991, conhecida como "Lei de TICs" ou "Lei de Informática" oferece benefícios para os produtos classificados como bens de Tecnologia da Informação e Comunicação – TIC das empresas habilitadas. Em contrapartida, essas empresas devem investir parte do faturamento obtido com os produtos incentivados em atividades de Pesquisa, Desenvolvimento e Inovação (PD&I). Dessa forma, lei objetiva incrementar a capacitação tecnológica e a competitividade do país.
+
+As empresas que se utilizam da Lei de TICs submetem anualmente à Secretaria de Ciência e Tecnologia para Transformação Digital – SETAD o Relatório Demonstrativo Anual (RDA), contendo a descrição dos projetos realizados por ela ou em parceria com instituições de ensino e pesquisa credenciadas no Comitê da Área de Tecnologia da Informação – CATI.
+
+A Lei nº 13.969 de 26 de dezembro de 2019 e o Decreto nº 10.356 de 20 de maio de 2020 alteraram a forma do benefício introduzindo a geração de crédito financeiro. O crédito financeiro pode ser gerado na modalidade trimestral ou anual, correspondendo a valores proporcionais ao investimento em atividades de PD&I realizados no período correspondente e limitado por um percentual aplicado sobre faturamento com produtos incentivados da empresa. O crédito financeiro pode ser utilizado na compensação de débitos relativos a tributos e a contribuições administrados pela Secretaria Especial da Receita Federal do Brasil.
+
+Este documento foi elaborado a partir da metodologia AvalRDA, produzida pelo CTI-Renato Archer a pedido do MCTI, que teve por base a legislação vigente à época da realização dos projetos e da apresentação dos RDAs, congregando em um só documento técnico as informações contidas nos manuais e demais documentos de orientação do preenchimento do sistema Novo Sigplani.
+
+As atuais metodologia e orientações práticas foram estabelecidas para que o trabalho de análise das informações apresentadas no RDA pelas empresas beneficiárias, a ser realizado por auditorias independentes, nos termos do art. 11, § 9º, inciso II, da Lei nº 8.248, de 1991, alterada pela Lei nº 13.674, de 11 de junho de 2018, seja executado de forma padronizada, quanto à verificação do enquadramento dos projetos elaborados como sendo de Pesquisa, Desenvolvimento e Inovação em TIC.
+
+O objetivo final é, além de tornar os critérios que a SETAD vem aplicando na análise dos RDAs mais transparentes e concretos, servir de guia para as auditorias independentes na elaboração do relatório consolidado e do parecer conclusivo previstos na legislação.
+
+Este documento está dividido em seções, onde a seção 2 apresenta o escopo do documento, a seção 3 apresenta conceitos e definições utilizadas no âmbito da Lei de TICs, a seção 4 traz instruções gerais sobre tópicos do RDA que deverão ser avaliados pelo analista, a seção 5 menciona a avaliação de PPB, a seção 6 trata especificamente da avaliação de mérito e dispêndio dentro dos projetos apresentados, as seções 7 em diante apresentam observações para a avaliação de tipos de projetos e dispêndios.
+
+
+================================================================
+[Página 6] 2. ESCOPO
+================================================================
+
+Servir de guia para a análise dos relatórios descritivos das atividades de pesquisa, desenvolvimento e inovação (RDAs) apresentados pelas empresas beneficiárias dos incentivos decorrentes das Leis nº 8.248, de 1991 e nº 13.969 de 2019.
+
+Esta análise deve, de acordo com as Portarias, instruções, manuais e metodologia de análise expedidos pelo MCTI, verificar e atestar a veracidade das informações prestadas pelas empresas, referentes:
+
+- À base de cálculo e aos valores devidos a título de contrapartida de investimento em atividades de Pesquisa, Desenvolvimento e Inovação Mínimos (PD&IM) na área de Tecnologias da Informação e Comunicações (TICs);
+
+- À conformidade dessas atividades com aquelas especificadas no art. 2º do Decreto nº 10.356, de 20 de maio de 2020;
+
+- Ao seu enquadramento como dispêndios elegíveis nos termos do art. 12 deste Decreto; e
+
+- Ao cumprimento do Processo Produtivo Básico – PPB dos produtos habilitados, sobre os quais foram apresentados faturamento para fins da base de cálculo do PD&IM.
+
+
+================================================================
+[Página 6-9] 3. CONCEITOS E DEFINIÇÕES
+================================================================
+
+Esta seção reúne os principais termos empregados neste documento e sua respectiva conceituação, especialmente no que se refere à análise de enquadramento dos projetos como sendo de PD&I e à análise dos dispêndios.
+
+ADEQUAÇÃO (DISPÊNDIOS): dispêndios adequados são aqueles que apresentam correspondência quantitativa com o objetivo, escopo, prazos e demais recursos para a execução do projeto específico, ou seja, possuem volumes e valores compatíveis com o projeto desenvolvido pela empresa e são justificados.
+
+ÁREAS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO – TIC: Informática, Computação, Engenharias Elétrica, Eletrônica e Mecatrônica (ou Controle e Automação), Telecomunicações e correlatas.
+
+ANO-BASE: Para fins deste documento, corresponde ao período entre 1º de janeiro e 31 de dezembro de cada ano em que ocorre o fato gerador da obrigação e equivale ao ano calendário definido na Lei nº 8248/1991. Importante frisar que os dispêndios poderão ser realizados até 31 de março do ano subsequente ao ano-base, desde que não contabilizados de forma cumulativa para cumprimento da contrapartida de mais de um ano base.
+
+ANTECIPAÇÃO: Pagamento antecipado a terceiros para a execução de atividades de PD&I de que trata o art. 2º do Decreto nº 10.356/2020, desde que seu valor não seja superior a vinte por cento do total correspondente à contrapartida de investimento em PD&I do ano-calendário.
+
+ATIVIDADE / FUNÇÃO DE CARÁTER TECNOLÓGICO: atividade ou função de natureza finalística com ênfase na atuação em pesquisa, desenvolvimento e engenharia, isto é, funções associadas ao desenvolvimento tecnológico.
+
+ATIVIDADE EXPERIMENTAL OU DE VALIDAÇÃO: atividade executada para testar ou validar hipóteses, novos conhecimentos ou novas práticas. Tem um caráter investigativo. Atividades de mera verificação de funcionamento ou conformidade de especificações não são consideradas como investigativas ou experimentais.
+
+ATIVIDADE INVESTIGATIVA: atividade metódica e consciente para descobrir algo que não é conhecido de antemão.
+
+CONTEÚDO TÉCNICO-CIENTÍFICO DE UM PROJETO DE TIC: conhecimentos, capacidades e práticas especializadas embasadas na teoria ou na experimentação científica em áreas de TIC. É o caso do desenvolvimento e engenharia, mas não é o caso de produção ou manutenção.
+
+CONTEXTUALIZAÇÃO DAS ETAPAS: descrição que relaciona as etapas ao escopo e às circunstâncias de um projeto específico.
+
+DESENVOLVIMENTO EXPERIMENTAL: trabalho sistemático, baseado em conhecimento existente, obtido de pesquisa ou da experiência prática, e dirigido para produzir novos materiais, produtos ou dispositivos, para implementar novos processos, sistemas ou serviços ou aperfeiçoar substancialmente aqueles já produzidos ou implantados.
+
+DESENVOLVIMENTO: procedimento para levar os conceitos de produto ou de processo, aplicando conhecimentos científicos e de engenharia, através de uma série de etapas definidas, a fim de prová-los, refiná-los e aprontá-los para a aplicação comercial.
+
+DISPÊNDIOS: São os gastos na execução ou contratação das atividades especificadas no Art. 2º do Decreto nº 10.356/2020 e definidas no Art. 12 do mesmo Decreto.
+
+ESCOPO DO PROJETO: conjunto de informações que contém o objetivo do projeto e as atividades para alcançar tal objetivo, sendo que juntos são uma fonte de indícios para identificar o problema técnico-científico do projeto.
+
+ESTRUTURA ABRANGENTE DE ETAPAS: subdivisão do trabalho cuja descrição contém a maioria das etapas necessárias para atingir o objetivo específico do projeto, contextualizadas com seu escopo.
+
+ESTRUTURA DE ETAPAS MAIS RELEVANTES: subdivisão do trabalho cuja descrição contém apenas as etapas imprescindíveis para atingir o objetivo específico do projeto, contextualizadas com seu escopo.
+
+ELEGIBILIDADE DE DISPÊNDIOS: Dispêndios elegíveis são aqueles classificados dentro das categorias relacionadas no art. 2º do Decreto nº 10.356/2020 e que são associados a alguma das atividades descritas no art. 12 desse mesmo regulamento.
+
+FATURAMENTO DE CONTRAPARTIDA (Lei nº 8.248/91): É o resultado do cálculo do faturamento bruto de produtos incentivados no mercado interno, deduzidos os tributos recolhidos decorrentes da comercialização (IPI, PIS/COFINS e ICMS), aquisições de bens incentivados e devoluções. É o valor utilizado para a base de cálculo das obrigações de investimentos da Lei nº 8.248/91 anteriormente à publicação da Lei nº 13.969/2019.
+
+FATURAMENTO DE CONTRAPARTIDA (Lei nº 13.969/2019): É o resultado do cálculo do faturamento bruto de produtos incentivados no mercado interno, deduzidos os tributos recolhidos decorrentes da comercialização (IPI e ICMS-ST) e devoluções. É o valor utilizado para a base de cálculo das obrigações de investimentos da Lei nº 13.969/2019.
+
+FUNÇÃO FINALÍSTICA EM TIC: função profissional que tem por finalidade gerar conhecimentos, produtos, processos, componentes, sistemas ou serviços com foco em atividades de desenvolvimento ou de engenharia.
+
+FUNÇÃO NÃO FINALÍSTICA EM TIC: função que emprega TIC, mas cujo foco está na produção, manutenção, administração, vendas ou outra função organizacional não técnico-científica.
+
+INDÍCIO: afirmação que ajuda a inferir ou supor uma estimativa sobre alguma coisa. No presente contexto, o indício ajuda a inferir com razoável segurança o atendimento a um determinado critério ou atributo no processo de análise de um projeto.
+
+INFORMAÇÕES ABRANGENTES DE UM CURSO OU TREINAMENTO: informações tais como nome da instituição, ementa detalhada, carga horária, público alvo e valor do curso.
+
+INFORMAÇÕES MAIS RELEVANTES DE UM CURSO OU TREINAMENTO: informações tais como nome da instituição, nome do curso, ementa breve e valor do curso.
+
+MÉTODO PARA ANÁLISE DE DISPÊNDIOS: sequência estruturada de passos para aplicação dos atributos para análise dos dispêndios de projetos de PD&I e linha de corte adotada para determinar se o dispêndio é aprovado.
+
+MÉTODO PARA ANÁLISE DO ENQUADRAMENTO COMO PD&I: sequência estruturada de passos para aplicação dos critérios de enquadramento de projetos como sendo de PD&I e linha de corte adotada para determinar se um projeto é aprovado.
+
+PERTINÊNCIA DE DISPÊNDIOS: dispêndios pertinentes são aqueles qualitativamente consistentes com o projeto em análise; isto é, são concernentes ao escopo e ao objetivo do projeto específico e cuja aplicação e necessidade para o projeto estão justificadas no RDA.
+
+PROBLEMA TÉCNICO-CIENTÍFICO EM TIC: problema cuja solução requer a aplicação de conhecimentos e práticas baseados em princípios científicos (por exemplo, os problemas de engenharia).
+
+PROJETO DE TIC: projeto cujo escopo está contido numa área de Tecnologia da Informação e Comunicação ou está associado a um produto reconhecido como sendo de TIC por força de portaria que estabelece o PPB.
+
+PROJETO DE FORMAÇÃO OU CAPACITAÇÃO: projeto cuja atividade principal é a formação ou capacitação de recursos humanos. No contexto de aplicação da Lei de TICs, requer conteúdo que capacite o recurso a eventualmente atuar em projetos de PD&I.
+
+PROJETO DE PD&I STRICTO SENSU: projeto de pesquisa básica, de pesquisa aplicada, de desenvolvimento experimental. No contexto de aplicação da Lei de TICs, inclui ainda projeto de desenvolvimento de produto ou processo de TIC (ver PROJETO DE TIC).
+
+SIGNIFICATIVAMENTE APERFEIÇOADO: produto, processo, etc., que exibe desempenho melhorado em razão de mudanças decorrentes de uma atividade investigativa em materiais, componentes, peças, funcionalidades, performance (no caso de produtos); ou em métodos, técnicas ou procedimentos (no caso de processos). Essa melhoria não deve ser óbvia, pois do contrário dispensaria o requisito de "atividade investigativa".
+
+SOLUÇÃO: quaisquer conhecimentos, materiais, dispositivos, componentes, partes, produtos, processos, programas de computador, sistemas ou serviços, que tenham sido gerados para resolver o desafio tecnológico atacado pelo projeto. Observe-se que a "solução" pode ser qualquer uma dessas formas de resultado ou simplesmente um aperfeiçoamento significativo de um produto, processo, etc. já existente.
+
+TECNAC: atividades de pesquisa, desenvolvimento e inovação determinantes para que se desenvolvam tecnologias no país com a finalidade de incorporá-las aos bens de tecnologias da informação e comunicação – TIC, cujo reconhecimento se dará por meio de manifestação do MCTI, conforme Portaria MCT nº 950 de 12 de dezembro de 2006 ou Portaria MCTI nº 4.514, de 02 de março de 2021.
+
+TÉCNICA: método ou procedimento para executar alguma coisa.
+
+TÉCNICAS OPERACIONAIS: técnicas ou procedimentos especializados que permitem efetuar operações de produção, de manutenção, de administração, de vendas ou de outras funções organizacionais não técnico-científicas.
+
+
+================================================================
+[Página 9-10] 4. AVALIAÇÃO DOS REQUISITOS PARA FRUIÇÃO DOS BENEFÍCIOS
+================================================================
+
+Ao efetuar a análise do RDA o analista deverá verificar alguns requisitos previamente à avaliação das atividades de PD&I propriamente ditas, que será objeto das seções seguintes do Manual.
+
+Dessa forma, deverá verificar a conformidade da empresa auditada em relação aos prazos de entrega do RDA e veracidade das declarações de regularidade fiscal e previdenciária, implantação de Programa de Participação dos Trabalhadores nos Lucros e Resultados - PPLR da empresa, bem como certificação da qualidade baseada nas normas ISO 9001, conforme estabelecido no Decreto nº 10.356/2020.
+
+O analista deverá verificar todos os valores de faturamentos declarados pela empresa. Deverão ser verificados também os faturamentos com os produtos incentivados e os valores correspondentes de impostos auferidos e pagos.
+
+Além das informações contidas no RDA para as declarações de faturamento e projetos, o analista deverá observar e avaliar as informações apresentadas no campo de "Outras observações sobre este Relatório Demonstrativo", bem como em arquivos anexados ao RDA, onde a empresa beneficiária poderá apresentar as corretas informações em caso de divergências calculadas ou disponibilizadas no RDA.
+
+No caso da Portaria prever troca de etapa produtiva por adicional de P&D, o analista deverá avaliar se a empresa optou pela troca, baseou-se na portaria correta para realizar a troca e cumpriu as exigências derivadas da opção de troca escolhida, conforme Portaria correspondente.
+
+Com relação à atividade de PD&I, o analista deverá avaliar se as declarações feitas pela empresa ou ICT sobre tipo de projeto, alcance, grau de inovação, área de atuação e correspondência com o art. 2º do Decreto nº 10.356/2020 condizem de fato com as características de cada projeto apresentado.
+
+
+================================================================
+[Página 10] 5. AVALIAÇÃO DO PROCESSO PRODUTIVO BÁSICO - PPB
+================================================================
+
+A Lei nº 13.969/2019 alterou a Lei nº 8.248/1991 trazendo a obrigatoriedade de apresentação do cumprimento dos requisitos dos PPBs dos produtos incentivados, a saber:
+
+"§ 9º As empresas beneficiárias encaminharão anualmente ao Poder Executivo, conforme regulamento a ser editado pelo Ministro de Estado da Ciência, Tecnologia, Inovações e Comunicações:
+
+I – demonstrativos de cumprimento, no ano anterior, das obrigações estabelecidas nesta Lei, mediante apresentação de relatórios descritivos das atividades de pesquisa, desenvolvimento e inovação, de cumprimento dos processos produtivos básicos e dos resultados alcançados; e
+
+II - relatório e parecer conclusivo acerca dos demonstrativos referidos no inciso I do caput deste parágrafo, elaborados por auditoria independente, credenciada na Comissão de Valores Mobiliários (CVM) e cadastrada no Ministério da Ciência, Tecnologia, Inovações e Comunicações, que ateste a veracidade das informações prestadas."
+
+Com isso, o RDA passa a ser peça fundamental para a declaração das informações do cumprimento do PPB, de modo que sejam utilizadas para os procedimentos de análise e fiscalização dos cumprimentos deste requisito obrigatório, que é exigido pela legislação para fruição dos benefícios.
+
+Assim, para análise, auditoria e fiscalização do cumprimento dos PPBs, deverão ser aplicados os seguintes procedimentos, exclusivamente nas empresas que produzem bens e serviços produzidos de acordo com o processo produtivo básico ou que possuam bens e serviços com tecnologia desenvolvida no país.
+
+
+----------------------------------------------------------------
+5.1. AVALIAÇÃO DO CUMPRIMENTO DO PROCESSO PRODUTIVO BÁSICO - PPB
+----------------------------------------------------------------
+
+Para os produtos incentivados que contenham metas de pontuação definidas por meio da portaria de PPB, as empresas deverão declarar no RDA a pontuação atingida pela pessoa jurídica habilitada no processo produtivo básico específico (PA) e a meta de pontuação definida no processo produtivo básico específico (MPD).
+
+Os valores de PA a serem declarados sobre cada produto incentivado deverão estar em consonância com a Portaria Interministerial SEPEC/ME/SEXEC/MCTI nº 46, de 09.10.2019, e em especial com seu Art. 2º:
+
+"Art. 2º A pontuação acumulada pela empresa será o somatório dos pontos atingidos em cada etapa produtiva.
+
+§ 1º Serão pontuadas as etapas produtivas realizadas no País.
+
+§ 2º A pontuação indicada em cada etapa produtiva será a pontuação máxima atingível pela empresa habilitada na referida etapa.
+
+§ 3º A pontuação atingida em cada etapa produtiva será determinada pelo número de realizações desta etapa no País em relação ao número total da produção ou em relação ao número desta etapa produtiva realizada na produção total, o que for maior."
+
+Nos casos em que houver pontuações acumuladas distintas para mais de um modelo de um produto incentivado, a empresa deverá calcular a média ponderada das pontuações atingidas por cada modelo de produto incentivado e o resultado deverá ser declarado no campo apropriado (PA) do respectivo produto no RDA.
+
+As empresas beneficiárias poderão organizar as informações sobre a memória de cálculo utilizada para o cálculo da PA de cada produto incentivado, incluindo os respectivos modelos, a quantidade produzida relativa ao faturamento declarado, demonstrando a forma do atingimento da pontuação em cada uma das etapas produtivas, na forma da tabela a seguir:
+
+TABELA - Produto Incentivado: TERMINAL PORTÁTIL DE TELEFONIA CELULAR
+Portaria de Habilitação: (em branco)
+Data Portaria de Habilitação: (em branco)
+NCM: (em branco)
+Portaria PPB: PORTARIA INTERMINISTERIAL Nº 3, DE 21 DE JUNHO DE 2019
+MPD: (em branco)
+
+Modelo | Quantidade | PA
+A | 200 | 58
+B | 150 | 59
+C | 150 | 61
+D | 200 | 56
+E | 300 | 55
+Total | 1000 | 57,3
+Pontuação Acumulada | (em branco) | 57,3
+
+A tabela serve para demonstração da pontuação atingida a partir dos PPB para o produto incentivado, uma vez que no sistema Novo Sigplani, existe apenas um campo para declaração do valor de PA.
+
+Os produtos incentivados, declarados para a obtenção do certificado de crédito financeiro sobre o regime de apuração anual de que trata a Lei nº 13.969/2019, que não alcançarem 60% das respectivas MPD estabelecidas em Portaria, não poderão ser computados para base de cálculo do crédito financeiro.
+
+
+----------------------------------------------------------------
+5.2. PPB DE PRODUTO INCENTIVADO SEM META DE PONTUAÇÃO DEFINIDA POR PORTARIA
+----------------------------------------------------------------
+
+Para os processos produtivos básicos que não definam metas de pontuação, a pessoa jurídica habilitada deverá cumprir com os termos definidos em portaria interministerial, comprovando seu atendimento de forma anexa ao RDA, e utilizar a relação PA/MPD igual a 1 (um) para os casos de geração do certificado de crédito financeiro no regime anual.
+
+No ato declaração do RDA a pessoa jurídica habilitada deverá informar se foram cumpridas as etapas de produção previstas nas Portarias de PPB vigentes, o que será atestado e fiscalizado por meio de procedimentos e regulamentações estabelecidas pelos órgãos envolvidos.
+
+
+----------------------------------------------------------------
+5.3. ORIENTAÇÕES GERAIS SOBRE A DECLARAÇÃO E AVALIAÇÃO DO PPB
+----------------------------------------------------------------
+
+Além das orientações previstas nos itens 5.1 e 5.2, a pontuação obtida por meio de investimento em Pesquisa, Desenvolvimento e Inovação Adicional (PD&IA), estabelecida nos processos produtivos básicos, ou em substituição a etapas produtivas, deve ser informada e avaliada conjuntamente com os demais investimentos em PD&I declarados no RDA.
+
+Durante o ano calendário, caso a empresa tenha seguido orientações para cumprimento do PPB de portarias distintas (baseadas em etapas e baseadas em meta de pontuação), deverá declarar no RDA as informações totais do faturamento do produto incentivado e apresentar os valores PA e MPD apenas sobre a parcela relativa aos respectivos PPB dos produtos incentivados que seguiram a Portaria baseada em pontuação, sem prejuízo das demais orientações estabelecidas no item 5.1 deste Manual. As informações específicas sobre a parcela dos produtos cujo cumprimento do PPB seguiu as orientações de portaria baseada em etapas deverão ser detalhadas nos campos de observações ou mesmo em arquivo anexo ao RDA.
+
+Caso a pessoa jurídica habilitada não tenha cumprido total ou parcialmente as etapas ou metas previstas nas Portarias de PPB, serão aplicadas as sanções previstas na legislação de forma proporcional ao descumprimento do processo produtivo básico.
+
+Após o recebimento pelo MCTI do Relatório Demonstrativo Anual (RDA) as informações afetas ao cumprimento do PPB poderão ser auditadas e serão encaminhadas para o Ministério do Desenvolvimento, Indústria, Comércio e Serviços – MDIC, com vistas a sua utilização na realização dos procedimentos específicos para fiscalização do PPB, conforme legislação e regulamentação aplicável.
+
+Caso o produto habilitado siga mais de uma portaria de PPB, a empresa deverá declarar no campo apropriado pelo sistema o valor de PA e MPD do produto/modelo os valores correspondentes ao modelo com maior relevância no faturamento declarado.
+
+Além das informações requeridas para avaliação do cumprimento do PPB previstos neste Manual, a empresa beneficiária deverá apresentar anualmente em anexo no RDA o Relatório de Insumos e Componentes, quando previsto nas respectivas portarias interministeriais de Processo Produtivo Básico.
+
+
+----------------------------------------------------------------
+5.4. PROCEDIMENTOS DE AUDITORIA DO PROCESSO PRODUTIVO BÁSICO-PPB
+----------------------------------------------------------------
+
+Após o recebimento pelo MCTI do Relatório Demonstrativo Anual (RDA) com as informações relativas ao cumprimento do PPB, as empresas com obrigatoriedade de contratação de auditoria, serão auditadas por empresas de auditoria Independente.
+
+Os procedimentos a serem adotados e relatórios a serem emitidos pelas empresas de auditoria devem seguir as orientações de um Comunicado Técnico a ser emitido pelo Conselho Federal de Contabilidade (CFC), e pelo Instituto dos Auditores Independe do Brasil (IBRACON).
+
+A conclusão da atividade de auditoria referente ao PPB, será um item adicional ao relatório conclusivo do RDA (Relatório de Asseguração), o qual seu modelo será publicado pelo CFC, juntamente com os procedimentos, em complemento ao modelo apresentado na Portaria nº 5.150/2018 e demais atualizações.
+
+O relatório conclusivo (relatório de asseguração), resultado da auditoria, emitido pelas empresas de auditoria independente, será encaminhado pelo próprio MCTI para o MDIC, com vistas a sua utilização na realização dos procedimentos específicos para fiscalização do PPB, conforme legislação e regulamentação aplicável.
+
+
+================================================================
+[Página 13-14] 6. METODOLOGIA PARA ANÁLISE DOS RELATÓRIOS DEMONSTRATIVOS (RDAs)
+================================================================
+
+A metodologia é estruturada com base nos modelos de referência e métodos de análise assim divididos:
+
+- Modelo de referência para enquadramento das atividades de Pesquisa, Desenvolvimento e Inovação;
+
+- Método de análise das atividades de Pesquisa, Desenvolvimento e Inovação em Tecnologia da Informação e Comunicação;
+
+- Modelo de referência para análise de dispêndios das atividades de Pesquisa, Desenvolvimento e Inovação em Tecnologia da Informação e Comunicação;
+
+- Método de análise de dispêndios das atividades de Pesquisa, Desenvolvimento e Inovação em Tecnologia da Informação e Comunicação.
+
+Os modelos de referência são utilizados para delimitar os parâmetros de enquadramento das atividades de Pesquisa e Desenvolvimento e de análise dos dispêndios dos RDAs.
+
+Os métodos de análise são utilizados para, com base nos modelos de referência e nas informações e indícios fornecidos pelas empresas nos RDAs, concluir tecnicamente se as atividades e dispêndios estão adequados à previsão dada pela legislação e demais documentos de orientação.
+
+Para avaliar o cumprimento das obrigações de contrapartida, esta metodologia tem por foco analisar os investimentos em PD&I realizados pelas empresas beneficiárias e contratantes, sendo que uma das unidades de avaliação é o projeto, conforme os arts. 2º e 9º do Decreto 10.356/2020. Os projetos são avaliados com base em indícios identificados durante a análise.
+
+O processo de avaliação de projetos é composto de duas etapas e deve responder as seguintes questões:
+
+- O projeto apresentado pela empresa pode ser enquadrado como sendo de PD&I em Tecnologias da Informação e Comunicação, segundo o art. 2º do Decreto nº 10.356/2020?
+
+- Os dispêndios apontados no projeto são elegíveis, pertinentes e estão adequados, conforme o art. 12 do Decreto nº 10.356/2020?
+
+O processo de avaliação deve seguir os seguintes passos:
+
+
+----------------------------------------------------------------
+6.1. PRÉ-ANÁLISE
+----------------------------------------------------------------
+
+Neste passo devem ser verificadas as seguintes informações sobre os projetos de um RDA:
+
+- Se as atividades se referem ou estão relacionadas de forma complementar a outras realizadas nas áreas de Tecnologias da Informação e Comunicação;
+
+- Se os campos do relatório foram preenchidos com informações que podem ser avaliadas; e
+
+- Se as atividades foram desenvolvidas dentro do período válido para o ano base relativo ao RDA apresentado.
+
+Desta maneira, antes da análise do enquadramento das atividades de PD&I, deve-se analisar o projeto em uma etapa prévia, com o intuito de verificar se as informações apresentadas constituem um projeto válido para o cumprimento das obrigações de contrapartida do ano base.
+
+Caso conclua que as informações do RDA são suficientes para demonstrar o atendimento dos três aspectos listados acima, dar-se-á início à análise do enquadramento e dos dispêndios do projeto. A partir de então, conforme a natureza do projeto relatado, serão utilizados o modelo de referência e o método de análise apropriados à situação (enquadramento ou dispêndios). Caso as informações encontradas não sejam suficientes, o projeto será considerado como não enquadrado por falta de informação.
+
+Por fim, na pré-análise deve-se também identificar se o projeto é de PD&I stricto sensu ou de capacitação e formação, pois esta classificação implica em dois diferentes conjuntos de critérios de análise, conforme o caso.
+
+
+----------------------------------------------------------------
+6.2. MODELO DE REFERÊNCIA PARA ENQUADRAMENTO DAS ATIVIDADES DE PD&I
+----------------------------------------------------------------
+
+A metodologia classifica os projetos em duas categorias:
+
+- PD&I stricto sensu: Projetos em que há atividades de pesquisa básica, de pesquisa aplicada ou de desenvolvimento experimental. No contexto de aplicação da Lei de TICs, esta conceituação inclui ainda projeto de desenvolvimento ou evolução de produtos de TICs.
+
+- Formação e Capacitação: Projetos cujo objetivo principal seja a formação ou capacitação profissional técnica, de nível superior ou de pós-graduação nas áreas da TICs, conforme previsto no inciso V, art. 2º do Decreto 10.356/2020.
+
+
+----------------------------------------------------------------
+6.3. PROJETOS DE PD&I STRICTO SENSU
+----------------------------------------------------------------
+
+Os projetos de PD&I stricto sensu devem ser avaliados por meio de um conjunto de quatro critérios do modelo de referência:
+
+Critério C1 – Existência de problema técnico-científico: um projeto contempla em seus objetivos, no todo ou em parte, a execução de atividades de natureza tecnológica que levem à resolução de um problema técnico-científico na área de Tecnologia da Informação e Comunicação. A aplicação deste critério consiste em identificar, nas informações fornecidas pela empresa nos campos do RDA, o objetivo do projeto e as etapas realizadas dentro do período do ano-base.
+
+Critério C2 – Execução sistemática: contextualizando as suas etapas com o escopo do projeto: um projeto geralmente é executado de forma sistemática, com etapas de cunho tecnológico, estruturadas com vistas a alcançar seus objetivos e devidamente contextualizadas com o seu escopo. A aplicação deste critério objetiva identificar quais foram as atividades realizadas no período do ano-base e se elas têm relação direta com o objetivo do projeto.
+
+Critério C3 – Existência de atividades investigativas: geralmente um projeto contempla atividades investigativas, de validação ou experimentais que contribuem para comprovar o atingimento de seus objetivos e a resolução do problema técnico-científico. A aplicação deste critério objetiva identificar se entre as atividades realizadas no ano-base houve a necessidade de realização de testes e qual a natureza deles.
+
+Critério C4 – Existência de um elemento de novidade tecnológica: o resultado do projeto pode apresentar elemento de novidade tecnológica (conhecimento, produto, processo, característica ou propriedade do resultado, etc.), isto é, um acréscimo de conhecimentos ou práticas ao acervo tecnológico existente (novos conhecimentos, materiais, produtos, processos, etc. ou, pelo menos, aperfeiçoamentos significativos nesses materiais, produtos, processos, etc.). A aplicação deste critério tem por finalidade identificar se algum desses elementos está presente nas etapas completadas dentro do ano base mesmo que ainda não tenha sido alcançado o objetivo principal do projeto.
+
+A metodologia categorizou a avaliação de cada critério em graus que variam de 0 a 3. Cada grau reflete características identificadas no projeto. A atribuição dos graus deve ser baseada na verificação de indícios identificados no RDA, ou mesmo durante as atividades de auditoria ou fiscalização de PD&I realizados por firmas de auditoria independente e equipe técnica do MCTI, respectivamente.
+
+É importante ressaltar que os valores dos graus (0 a 3) não guardam entre si uma relação qualitativa. Assim, um projeto que recebeu grau 1 no critério 1 pode se referir a uma evolução de produto pertencente ao portfólio da empresa com incorporação de novas tecnologias disponíveis no mercado, enquanto que um projeto que recebeu grau 3 no mesmo critério pode se tratar de uma pesquisa referente à produção de nova tecnologia em ambiente acadêmico. Ambos serão enquadráveis dependendo da combinação com os graus recebidos nos outros critérios.
+
+Os graus adotados pela metodologia para cada critério e a explicação de cada um deles são apresentados na tabela seguinte.
+
+TABELA DE CRITÉRIOS C1 A C4 (PD&I stricto sensu) [Página 17]
+
+--- Critério C1 – Atributo: Problema técnico-científico ---
+Descrição: O projeto de TIC deve contemplar no seu escopo, no todo ou em parte, a resolução de um problema técnico-científico.
+Grau 3: Os indícios apontam para um problema técnico-científico explícito, cuja solução ainda não existe e a empresa precisa criar e aplicar uma solução para o problema.
+Grau 2: Os indícios apontam para um problema técnico-científico explícito cuja solução já existe, mas a empresa precisa criar e aplicar a sua própria solução para o problema, pois existe alguma limitação técnica, legal ou comercial para reproduzir ou executar a solução já existente.
+Grau 1: Os indícios apontam que o projeto não tem problema técnico-científico, pois a empresa reproduz ou executa alguma solução conhecida.
+Grau 0: Há descrição do projeto, mas ela não fornece indícios para decidir pela existência de problema técnico-científico a resolver.
+
+--- Critério C2 – Atributo: Contextualização das etapas ---
+Descrição: O projeto de TIC deve ser executado de forma sistemática, com etapas de natureza técnico-científica, contextualizadas com o escopo do projeto, demonstrando que as atividades foram executadas pela empresa, pela sua contratada ou pela ICT quando for o caso.
+Grau 3: Os indícios apontam para uma estrutura abrangente de etapas de natureza técnico-científica para atingir o objetivo definido, com etapas contextualizadas com o objetivo e o escopo do projeto, demonstrando que as atividades foram executadas pela empresa, pela sua contratada ou pela ICT quando for o caso.
+Grau 2: Os indícios apontam para uma estrutura de etapas de natureza técnico-científica para atingir o objetivo definido, com as etapas mais relevantes identificadas e contextualizadas com o objetivo e escopo do projeto, demonstrando que as atividades foram executadas pela empresa, pela sua contratada ou pela ICT, quando for o caso.
+Grau 1: Os indícios apontam para uma estrutura de etapas de natureza não técnico-científica, meramente operacionais ou ainda, referentes à aquisição da solução.
+Grau 0: Não há indícios para identificar as etapas ou há descrição das etapas, mas elas não estão contextualizadas com o escopo específico do projeto ou ainda não permitem identificar se foram executadas pela empresa, por sua contratada ou pela ICT conveniada, conforme o caso.
+
+--- Critério C3 – Atributo: Atividade investigativa ---
+Descrição: O projeto de TIC deve contemplar atividades investigativas, de validação ou experimentais, que contribuam para comprovar o atingimento de seus objetivos e a superação do problema técnico-científico.
+Grau 3: Os indícios apontam etapas relativas a testes, experimentos ou similares que comprovam não só o correto funcionamento da solução desenvolvida, mas também outros testes mais sofisticados para comprovação da solução do problema técnico-científico (desempenho, simulação, estressse etc). Inclui a descrição dos testes ou de seus resultados ou conclusões, relacionando-os ao escopo do projeto específico.
+Grau 2: Os indícios apontam etapas relativas a testes, experimentos ou similares que comprovam não só o correto funcionamento da solução desenvolvida, e também outros testes mais sofisticados (desempenho, simulação, estresse etc), ainda que sem descrição extensiva.
+Grau 1: Os indícios apontam que as etapas relativas a testes, experimentos ou similares se restringem à mera comprovação do correto funcionamento da solução (homologação, teste funcional ou apenas unitário etc).
+Grau 0: Não há atividade investigativa na descrição do projeto.
+
+--- Critério C4 – Atributo: Elemento de novidade ---
+Descrição: O projeto de TIC deve apresentar nos seus resultados algum elemento de novidade (conhecimento, produto, processo, característica ou propriedade do resultado etc), isto é, acréscimo de conhecimentos ou práticas ao acervo existente. Esse acréscimo se caracteriza pela geração de novos conhecimentos/materiais/produtos/dispositivos/programas de computador/processos/sistemas/serviços ou materiais/produtos/processos etc, ou que tenham sido significativamente aperfeiçoados.
+Grau 3: Os indícios apontam que os resultados gerados no âmbito da execução do projeto incorporam acréscimo de conhecimento ou práticas ao acervo existente (novos conhecimentos, materiais, produtos, processos etc ou aperfeiçoamentos significativos), por comparação explícita com outros conhecimentos, materiais, produtos, processos etc disponíveis.
+Grau 2: Os indícios apontam que os resultados gerados no âmbito da execução do projeto incorporam acréscimo de conhecimento ou práticas ao acervo (novos conhecimentos, materiais, produtos, processos etc., ou aperfeiçoamentos significativos), mas não há comparação explícita com outros conhecimentos, materiais, produtos, processos etc disponíveis.
+Grau 1: Os indícios apontam para resultados gerados no âmbito da execução do projeto - produtos, componentes, sistemas etc., mas que não representam acréscimo de conhecimentos ou práticas ao acervo existente.
+Grau 0: A descrição do projeto não demonstra os resultados esperados ou alcançados com a sua execução.
+
+
+----------------------------------------------------------------
+6.4. PROJETOS PD&I DE FORMAÇÃO E CAPACITAÇÃO
+----------------------------------------------------------------
+
+Da mesma forma como ocorre com os projetos de PD&I stricto sensu, a legislação também trata dos projetos nos quais a atividade principal é a formação ou capacitação de recursos humanos. No contexto de aplicação da Lei de TICs, requer-se conteúdo que capacite o recurso a eventualmente atuar em projetos de PD&I.
+
+Dadas as particularidades que este tipo de atividade possui, o modelo de referência contempla critérios específicos, que foram elaborados a partir do previsto nas normas aplicáveis. Portanto, quando da análise de um projeto de formação e capacitação, os critérios C1 a C4 (dos projetos de PD&I stricto sensu) não são levados em consideração – e vice-versa.
+
+Os critérios do modelo de referência para avaliação de projetos de formação e capacitação são os seguintes:
+
+Critério C5 – Conteúdo: O conteúdo do treinamento tem características técnico-científicas ou características técnicas não operacionais derivadas de fundamentos técnico-científicos. A aplicação deste critério objetiva identificar se o tipo de conhecimento adquirido capacita o recurso a realizar atividades de PD&I, mesmo que não haja uma aplicação imediata destes conhecimentos.
+
+Critério C6 – Nível: O nível do curso de formação ou capacitação profissional para aperfeiçoamento e desenvolvimento de RH em tecnologias da informação e comunicação é de nível médio ou superior. A aplicação deste critério tem como finalidade diferenciar a formação regular de nível superior (graduação ou pós-graduação) de treinamentos com vistas à aquisição de conhecimentos em tecnologias específicas.
+
+Critério C7 – Existência efetiva de pessoal formado/capacitado ou em processo de formação/capacitação: ou seja, os resultados devem demonstrar o atendimento do objetivo do inciso V do art. 2º do Decreto 10.356/2020. Este critério é utilizado para identificar a perspectiva de aplicação do conhecimento adquirido.
+
+Todos os projetos de formação e capacitação também serão avaliados com base em indícios e terão graus de 0 a 3 conferidos para cada um dos três critérios. Mas uma vez, é importante ressaltar que os valores dos graus não guardam entre si uma relação de evolução. O enquadramento é definido pela combinação dos graus recebidos em cada um dos critérios:
+
+TABELA DE CRITÉRIOS C5 A C7 (Formação e Capacitação) [Página 19]
+
+--- Critério C5 – Atributo: Conteúdo ---
+Descrição do critério: O conteúdo do projeto tem características técnico-científicas (isto é, conhecimentos, capacidades e práticas embasadas na teoria ou na experimentação científica) ou características técnicas não-operacionais derivadas de fundamentos técnico-científicos. O curso ou treinamento objeto do projeto agrega conhecimentos que podem ser aplicados em projetos de PD&I.
+Grau 3: Conteúdo técnico-científico ou técnico com descrição abrangente. Os indícios apontam para um curso de conteúdo técnico-científico ou de técnicas não operacionais associadas a conteúdo técnico-científico, com descrição abrangente das informações sobre o curso.
+Grau 2: Conteúdo técnico-científico ou técnico com descrição básica. Os indícios apontam para um curso de conteúdo técnico-científico ou de técnicas não operacionais associadas a conteúdo técnico-científico, com descrição das informações básicas sobre o curso.
+Grau 1: Conteúdo de técnicas operacionais ou conteúdo indefinido. Os indícios apontam que o curso tem um conteúdo de técnicas meramente operacionais, conteúdo de conhecimentos não técnico científico, ou conteúdo indefinido.
+Grau 0: Não há informações sobre o conteúdo do curso ou conteúdo com descrição genérica.
+
+--- Critério C6 – Atributo: Nível ---
+Descrição do critério: O nível do curso de formação ou capacitação profissional para aperfeiçoamento e desenvolvimento de RH em tecnologias da informação e comunicação é de nível médio ou superior.
+Grau 3: Nível Superior. Os indícios apontam que o curso é de nível superior.
+Grau 2: Nível médio/Capacitação técnica. Os indícios apontam que curso é de formação técnica de nível médio, ou é um curso de capacitação técnica específica.
+Grau 1: Nível fundamental ou elementar. Os indícios apontam que o nível do curso é fundamental ou elementar.
+Grau 0: Não existem informações sobre o nível do curso.
+
+--- Critério C7 – Atributo: Pessoal formado ou capacitado ---
+Descrição do critério: O pessoal formado/capacitado deve atuar em função finalística de TIC ou estar em processo de formação/capacitação para poder executar função finalística de TIC.
+Grau 3: Pessoal da própria empresa. O pessoal pertence aos quadros da empresa beneficiária e suas funções são de natureza finalística em TIC, ou será formado para poder executar funções de natureza finalística em TIC.
+Grau 2: Pessoal de fora da empresa. O pessoal não pertence aos quadros da empresa, mas será formado/capacitado pelo projeto numa IES que está de acordo com os incisos I e II do art. 213 da Constituição Federal, para poder executar funções finalísticas de TIC.
+Grau 1: Pessoal da empresa ou de fora dela, mas que não aplicará o treinamento em função finalística de TIC. O pessoal formado/capacitado ou em formação/capacitação não poderá aplicar esse conhecimento na execução de função finalística de TIC.
+Grau 0: Não existem informações sobre o pessoal capacitado/formado ou em capacitação/formação.
+
+
+----------------------------------------------------------------
+6.5. MÉTODO DE ANÁLISE DAS ATIVIDADES DE PD&I EM TICs
+----------------------------------------------------------------
+
+A aplicação do método se dá pela sequência de análise dos critérios, pela justificativa da análise feita e pela linha de corte recomendada para considerar um projeto como enquadrado. Essas definições permitem a sistematização do processo de análise.
+
+Primeiramente, são avaliados os aspectos descritos na pré-análise do projeto, com o intuito de verificar se as informações fornecidas pela empresa preenchem os requisitos mínimos para serem objeto de análise como atividade de PD&I em TICs para o ano-base ao qual o RDA se refere.
+
+Se o projeto passar pela pré-análise, então se procede à análise de enquadramento. Para a análise do enquadramento será avaliado cada projeto apresentado no RDA, atribuindo-se graus de 0 a 3 para cada um dos critérios aplicáveis, conforme o tipo do projeto analisado. A avaliação é baseada na existência de indícios (dados objetivos, documentação técnica pertinente, esquemáticos, dados de testes e comparações, referências, frases da descrição etc), que permitam atribuir um dos graus a cada critério. Tais indícios podem ser e verificados e obtidos a partir dos campos 'Descrição do projeto', 'Descrição do resultado' e 'Descrição do investimento', bem como por meio de arquivos anexos complementarmente apresentados em cada RDA.
+
+Para o enquadramento de projetos de PD&I stricto sensu são considerados apenas os graus obtidos para os critérios C1 e C2. Os critérios C3 e C4, nesta versão da metodologia, são utilizados de forma complementar para o entendimento do projeto. Já para o enquadramento de projetos de formação e capacitação são considerados os graus obtidos para todos os critérios (C5, C6 e C7).
+
+De acordo com a metodologia, um projeto somente poderá ser considerado enquadrado como atividade de PD&I em TICs se, ao final do processo de avaliação, possuir os seguintes graus:
+
+- PD&I stricto sensu: grau maior ou igual a 1, no critério C1, e grau maior ou igual a 2, no critério C2.
+
+- Formação e Capacitação: grau maior ou igual a 2, nos critérios C5, C6 e C7.
+
+Quando o projeto obtiver grau inferior aos mínimos estabelecidos, será considerado como não enquadrado como PD&I em TICs, uma vez que o não atendimento dos critérios previstos nesta metodologia em consonância com os requisitos legais e regulamentares da Lei de TICs. O não enquadramento significa uma das situações a seguir:
+
+- As informações prestadas no RDA apresentaram indícios suficientes de que o projeto não possui características de atividade de PD&I em TICs, nos termos da Lei de TICs.
+
+- A empresa não forneceu no RDA informações suficientes para que se identifiquem as características do projeto. Casos que se enquadrem nesta condição são considerados pela metodologia como Não Enquadrados por falta de Informação. Em tais casos, o analista fica impossibilitado de emitir um juízo técnico de valor, prejudicando a aplicação do método no projeto analisado.
+
+[Página 21] Fluxograma simplificado das possíveis situações de qualquer projeto de PD&I stricto sensu relatado no RDA (descrição textual do diagrama):
+- Pré-Análise -> Aprovado -> Análise de Enquadramento
+- Pré-Análise -> Reprovado -> Projeto não é válido
+- Análise de Enquadramento -> (C1 >= 1 e C2 >= 2) -> Enquadrado
+- Análise de Enquadramento -> (C2 = 1) -> Não Enquadrado
+- Análise de Enquadramento -> (C1 = 0 ou C2 = 0) -> Não Enquadrado por falta de informação
+
+O quadro abaixo mostra as possibilidades de enquadramento para os projetos de Pesquisa e Desenvolvimento stricto sensu, em função dos graus atribuídos aos critérios C1 e C2:
+
+QUADRO DE ENQUADRAMENTO (linhas = grau em C1; colunas = grau em C2)
+
+C1 = Grau 3: C2 Grau 3 = Enquadrado | C2 Grau 2 = Enquadrado | C2 Grau 1 = Não Enquadrado | C2 Grau 0 = Não Enquadrado por Falta de Informação
+C1 = Grau 2: C2 Grau 3 = Enquadrado | C2 Grau 2 = Enquadrado | C2 Grau 1 = Não Enquadrado | C2 Grau 0 = Não Enquadrado por Falta de Informação
+C1 = Grau 1: C2 Grau 3 = Enquadrado | C2 Grau 2 = Enquadrado | C2 Grau 1 = Não Enquadrado | C2 Grau 0 = Não Enquadrado por Falta de Informação
+C1 = Grau 0: C2 Grau 3 = Não Enquadrado por Falta de Informação | C2 Grau 2 = Não Enquadrado por Falta de Informação | C2 Grau 1 = Não Enquadrado por Falta de Informação | C2 Grau 0 = Não Enquadrado por Falta de Informação
+
+Encerradas as etapas de análises inseridas no âmbito do modelo e método de enquadramento, procede-se à verificação dos dispêndios de cada projeto do RDA.
+
+De forma a incrementar a transparência da análise e facilitar a compreensão dos seus resultados pelas empresas, o método prevê que sejam apresentados no Relatório Conclusivo os indícios encontrados nos próprios RDAs e que serviram de base para a atribuição dos graus
+
+
+----------------------------------------------------------------
+6.6. MODELO DE REFERÊNCIA PARA ANÁLISE DE DISPÊNDIOS DAS ATIVIDADES DE PD&I EM TICs
+----------------------------------------------------------------
+
+A Lei de TICs prevê os tipos de dispêndios em atividades de PD&I em TICs que são considerados elegíveis para o cumprimento das obrigações de investimento anual das empresas beneficiárias.
+
+A metodologia leva em consideração que os dispêndios incorridos devem ser justificados ou contextualizados em termos de sua aplicação e necessidade para o projeto, demonstrando-se a sua:
+
+ELEGIBILIDADE: dispêndios classificados dentro das categorias relacionadas no Decreto regulamentador vigente à época da apresentação do RDA e que podem ser associados a alguma das atividades de PD&I em TICs descritas no projeto;
+
+PERTINÊNCIA: dispêndios que apresentam uma relação qualitativa com o projeto que é objeto de análise, isto é, são consistentes com o escopo e com o objetivo daquele projeto específico;
+
+ADEQUAÇÃO: dispêndios que apresentam correspondência quantitativa (isto é, com volumes e valores compatíveis) com o objetivo, escopo, prazos e demais recursos para a execução do projeto específico.
+
+Essa classificação é denominada de forma abreviada pelas suas iniciais como EPA.
+
+
+----------------------------------------------------------------
+6.7. MÉTODO DE ANÁLISE DE DISPÊNDIOS DAS ATIVIDADES DE PD&I EM TICs
+----------------------------------------------------------------
+
+Quando um projeto for considerado como "enquadrado", "não enquadrado por falta de informação" ou ainda "não enquadrado", nos termos previstos no método e modelo de análise de atividades de PD&I em TICs, deverá ser feita a avaliação dos respectivos dispêndios.
+
+O método para análise de dispêndios consiste na avaliação individual dos atributos e justificativa de cada rubrica apresentada. De acordo com o procedimento anual de prestação de contas da Lei de TICs, os valores informados em cada rubrica da tabela do 'Perfil de Investimentos' do RDA, devem ser discriminados no campo 'Descrição de Investimentos' do Sigplani, incluindo as devidas justificativas.
+
+Com base no modelo de análise de dispêndios, o analista analisará os atributos de elegibilidade, pertinência e adequação de cada rubrica relatada. A avaliação de cada item resultará no valor SIM ou NÃO para cada um dos três atributos.
+
+Para que um dispêndio seja aprovado, ele precisa obter valor SIM nos três atributos, ou seja, necessariamente precisa ser elegível, pertinente e adequado. Nas situações em que um ou mais atributos recebam valor NÃO, o dispêndio (ou parte dele, desde que seja possível a segregação) será considerado glosado.
+
+Também em alinhamento com os propósitos de incremento na transparência das atividades de análise e propiciando uma maior compreensão pelas empresas, a avaliação será fundamentada e, quando possível, apresentará orientações e comentários no Relatório Conclusivo emitido.
+
+
+----------------------------------------------------------------
+6.8. AVALIAÇÃO DE GERAÇÃO DO CRÉDITO FINANCEIRO DECORRENTE DE INVESTIMENTOS EM PD&I - LEI Nº 13.969/2019
+----------------------------------------------------------------
+
+A Lei nº 13.969 de 26 de dezembro de 2019, regulamentada pelo Decreto 10.356 de 20 de maio de 2020, alterou o benefício concedido às empresas habilitadas com a introdução do crédito financeiro. O crédito financeiro pode ser utilizado na compensação de débitos próprios, vincendos ou vencidos, relativo a tributos e a contribuições administrados pela Secretaria Especial da Receita Federal do Brasil, conforme seu inciso I, art. 7º. As empresas poderão ainda optar, para cada estabelecimento, pela geração de crédito nas modalidades trimestral ou anual.
+
+O crédito gerado pelas empresas beneficiárias é o resultado da aplicação de um multiplicador sobre as aplicações realizadas em PD&I dentro do período determinado pela modalidade escolhida e limitado por um percentual aplicado sobre o faturamento incentivado. Os multiplicadores e percentuais mudam a depender da região onde a empresa se encontra, bem como se o produto possui portaria de reconhecimento de bem desenvolvido no país (no caso apenas do crédito trimestral).
+
+Conforme estabelecido no art. 3º da Lei nº 13.969/2019, a base de cálculo para o PD&IM será a soma total do faturamento bruto dos produtos incentivados, calculado conforme as orientações estabelecidas pela legislação, os quais foram declarados para fins da geração dos certificados créditos financeiros no ano calendário.
+
+A Lei nº 13.969/2019 define fórmulas de cálculo tanto para as modalidades trimestral quanto anual. No crédito trimestral, define-se PD&IM como sendo a aplicação em atividade de pesquisa, desenvolvimento e inovação realizados no trimestre, M e p o multiplicador e percentual limitante, que são definidos a depender do produto e região de sua fabricação, e VC o crédito gerado. Dessa forma, obtém-se a seguinte relação:
+
+    VC = PD&IM x M
+    (Crédito Trimestral)
+
+No caso do crédito anual, além das variáveis definidas no crédito trimestral, acrescentam-se à fórmula o PA, pontuação obtida pelo produto relativa às etapas de PPB cumpridas, MPD, a meta de pontuação a ser obtida para o produto, e PD&IC, valor de aplicação complementar a ser utilizado caso o produto não tenha cumprido sua meta de pontuação. Dessa forma, a relação de geração de crédito na modalidade anual segue:
+
+    VC = PD&IM x M x (PA/MPD) + PD&IM + (PD&IC/2,5)
+    (Crédito Anual)
+
+[Página 24]
+Em ambas as modalidades, o crédito obtido no período sempre é limitado pelo percentual correspondente aplicado sobre o faturamento.
+
+Quando a empresa gera crédito acima do limite calculado, a diferença entre os valores é chamada de Crédito Excedente. Caso a empresa gere crédito abaixo do limite calculado, a diferença é chamada de Crédito Remanescente.
+
+O crédito Excedente poderá ser utilizado em período posterior, limitado o seu uso até o dia 31 de julho do ano subsequente. Já o crédito Remanescente, este poderá ser utilizado pela empresa beneficiária permitindo a realização de ajustes de períodos cumulativos apenas dentro do ano calendário de apuração.
+
+Os multiplicadores e percentuais aplicados às situações de crédito trimestral e anual são apresentados na Tabela a seguir.
+
+TABELA DE MULTIPLICADORES E PERCENTUAIS
+
+                                          | Crédito Trimestral              | Crédito Anual
+                                          | Multiplicador | Percentual Limite | Multiplicador | Percentual Limite
+SUDAM/SUDENE/CENTRO-OESTE                 | 3,24          | 12,97%          | 2,41          | 12,97%
+Demais Regiões                            | 2,73          | 10,92%          | 1,73          | 10,92%
+SUDAM/SUDENE/CENTRO-OESTE com TecNac      | 3,41          | 13,65%          | (não se aplica)
+Demais Regiões com TecNac                 | 3,41          | 13,65%          | (não se aplica)
+
+As informações relacionadas aos faturamentos dos produtos incentivados, total de investimento em PD&I declarado para a apuração dos certificados de crédito financeiro e o montante de crédito financeiro gerado pela empresa beneficiária no ano calendário serão automaticamente apresentados no RDA.
+
+Os investimentos em PD&I declarados para geração de crédito tanto na modalidade anual, como trimestral deverão constar dentro do valor total contabilizado como aplicações em PD&I presentes no RDA, exceto nas situações em que houve utilização de investimentos no período de janeiro a março do ano-base seguinte. Nessa situação, os valores em PD&I declarados na geração de crédito trimestral podem ser contabilizados para a geração de crédito referente ao 4º trimestre do ano-base corrente ou ao 1º trimestre (ou ao crédito anual) do ano-base seguinte, vedada a dupla contagem, sendo que nesta possibilidade, os investimentos referentes ao período citado estarão presentes no RDA do ano-base seguinte.
+
+
+----------------------------------------------------------------
+6.9. AVALIAÇÃO DO CUMPRIMENTO DAS OBRIGAÇÕES DE INVESTIMENTOS EM PD&I - LEI Nº 13.969/2019
+----------------------------------------------------------------
+
+A Lei nº 13.969 de 26 de dezembro de 2019, regulamentada pelo Decreto 10.356 de 20 de maio de 2020, alterou o Art. 11 da Lei nº 8.248/91, prevendo:
+
+"Farão jus ao crédito financeiro de que trata o art. 4º desta Lei as pessoas jurídicas beneficiárias que investirem anualmente, no País, em atividades de pesquisa, desenvolvimento e inovação referentes ao setor de tecnologias da informação e comunicação, no mínimo 5% (cinco por cento) da base de cálculo formada pelo faturamento bruto no mercado interno, decorrente da comercialização de bens de tecnologias da informação e comunicação definidos no art. 16-A, e que cumprirem o processo produtivo básico.
+
+.................
+
+§ 7º Tratando-se de investimentos relacionados à comercialização de bens e serviços de tecnologias da informação e comunicação produzidos na região Centro-Oeste e nas regiões de influência da Sudam e da Sudene, a redução prevista no § 6º deste artigo observará os seguintes percentuais
+
+.................
+
+III - em 20% (vinte por cento), de 1º de janeiro de 2004 até 31 de dezembro de 2029; "
+
+Isso posto, a partir de 2019 até o prazo previsto no inciso III do §7º do o Art. 11 da Lei nº 8.248/91, o percentual de investimento em PD&IM será de 4% da base de cálculo formada pelo faturamento bruto no mercado interno, calculado em conformidade com o previsto no art. 9º do Decreto 10.356/2020, o qual será considerado como Faturamento de Contrapartida para fins dessa Lei.
+
+Dessa forma, o Faturamento de Contrapartida, usado como base de cálculo para os investimentos em PD&I para fins da Lei nº 13.969/2019, deverá ser calculado de acordo com a tabela a seguir:
+
+BASE DE CÁLCULO PARA INVESTIMENTOS EM PD&I – LEI Nº 13.969/2019
+(A) Faturamento Bruto: Valor decorrente da comercialização de bens e serviços de tecnologias da informação e comunicação incentivados.
+(B) Valor dos Tributos: Valor dos tributos correspondente e devidos (IPI e ICMS-ST) na comercialização de bens e serviços de tecnologias da informação e incluídos no faturamento bruto acima.
+(C) Devoluções: Montante das devoluções de vendas de bens incentivados, cujo faturamento, tenha sido incluído no valor do faturamento bruto acima.
+(A-B-C) = Faturamento de Contrapartida (Base de Cálculo).
+
+Ressalta-se que não há previsão na legislação de contabilização de obrigação negativa, sendo o valor limitado a zero na situação descrita.
+
+
+----------------------------------------------------------------
+6.10. APLICAÇÕES OBRIGATÓRIAS EM PD&I
+----------------------------------------------------------------
+
+As empresas com faturamento bruto anual, calculado conforme art. 9º do Decreto 10.356/2020, seja igual ou superior a R$ 30.000.000,00 (trinta milhões de reais) passam a ter obrigação de realização de investimentos em determinadas modalidades e percentuais definidos na legislação. A distribuição das aplicações em PD&I deverão seguir as no mínimo as seguintes proporções:
+
+46 % de sua base de cálculo:
+
+   a) No mínimo 10 % em depósitos trimestrais no FNDCT; e
+
+   b) No mínimo 20% em convênio com centros ou institutos de pesquisa ou entidades de ensino credenciada pelo CATI; e
+
+   c) No mínimo 16% em convênio com centros ou institutos de pesquisa ou entidades de ensino com sede estabelecimento principal no Norte/Nordeste e Centro Oeste credenciadas pelo CATI; OU
+
+   d) Em programas e projetos de interesse nacional nas áreas de tecnologias da informação e comunicação considerados prioritários pelo CATI (PPI), em substituição aos percentuais de aplicação (a), (b) e (c)
+
+54 % de sua base de cálculo poderá ser aplicado nas modalidades (a), (b), (c), (d) ou em atividades de pesquisa, desenvolvimento e inovação realizadas diretamente pelas próprias empresas (projetos próprios), ou por elas contratadas com outras empresas, ou com ICT, bem como nas modalidades previstas nos incisos I, II e IV do §18 do art. 11 da Lei nº 8.248/1991.
+
+As empresas com faturamento bruto anual inferior a R$ 30.000.000,00 (trinta milhões de Reais), não têm percentuais mínimos de obrigação a cumprir nas formas de investimento descritas acima, podendo aplicar livremente a sua obrigação de investimento em quaisquer das formas descritas acima.
+
+Com relação ao item (c), as empresas beneficiárias deverão aplicar percentual igual ou superior à 50% em convênio com ICTs criadas e mantidas pelo poder público, bem como às instituições de pesquisa ou instituições de ensino superior mantidas pelo poder público, com sede ou estabelecimento principal na região a que o recurso se destina.
+
+A emissão dos boletos para depósito no FNDCT tanto na modalidade trimestral, conforme o item (a) acima descrito, como também nas demais opções de depósitos neste fundo previstas na regulamentação da Lei nº 8.248/1991, deverá ser realizada, necessariamente, por meio do endereço eletrônico inovacaodigital.mcti.gov.br. Os investimentos em PPI, conforme mencionado no item (d), deverão ser realizados por meio do endereço eletrônico ppi.facti.com.br/boleto.
+
+A figura abaixo ilustra as modalidades de aplicações e percentuais mínimos de investimentos em PD&I realizados em cumprimento às obrigações originadas pela fruição do benefício da Lei nº 8.248/1991 (Investimento em pesquisa, desenvolvimento e inovação mínimo – PD&IM):
+
+[Página 27] FIGURA - Estrutura do PD&IM (descrição textual do diagrama):
+PD&IM = 4% ($ bens incentivados)
+ - Projetos de PD&I nas Empresas Incentivadas: 2,16% (complementar)
+     Inclui: Interno à própria empresa; Empresa contratada; Instituto de Pesquisa (não CATI); Entidade Brasileira de Ensino; Incubadora de empresas de base tecnológica em TI; Empresa vinculada à incubadora; FIPs CVM e Programa Governamental; OS do MCTI que promovam PD&I em TICs; Pagamento de Auditoria Independente; FNDCT Residual (Multa + TJLP); PPI.
+ - Projetos de PD&I com Instituições Credenciadas: 1,44% (mínimo obrigatório)
+     - SUDAM (exceto ZFM), SUDENE e CO: 0,64%
+         - Públicas ou Privadas: 0,32% (complementar)
+         - Públicas: 0,32% (mínimo obrigatório)
+     - Demais Regiões: 0,80%
+     Inclui: Centro ou Instituto de Pesquisa CATI; Entidade Brasileira de Ensino CATI; Incubadora de empresas de base tecnológica em TI de Instituição de E&P credenciada; Empresa vinculada a incubadora credenciada de Instituição de E&P credenciada; FNDCT Residual (Multa + TJLP); PPI.
+ - FNDCT - CTInfo: 0,40% (mínimo obrigatório)
+     Inclui: Depósitos Trimestrais; FNDCT Residual (Multa + TJLP); PPI.
+(Legenda: vermelho = % mínimos obrigatórios; azul = % complementares)
+
+É importante destacar que pagamentos destinados às Firmas de Auditoria Independente para a realização das atividades previstas na Lei nº 8.248/91, embora não caracterizados como uma obrigação de investimentos em PD&I prevista pela legislação, poderão ser utilizados para cumprimento da obrigação de investimento em PD&I relativo ao percentual de 2,16% (Extra-convênio).
+
+Além disso, os investimentos em atividades de PD&I realizados até 31 de março do ano subsequente, conforme previsto no art. 13-A do Decreto nº 10.356/2020, poderão ser utilizados para fins da apuração de crédito financeiro relativo à determinado período do ano calendário anterior, vedada a dupla contagem de tais investimentos para compor apuração de crédito financeiro do período."
+
+A seguir será demonstrado a possibilidade que as empresas beneficiárias da Lei nº 8.248/91 de utilizar investimentos em PD&I realizados a maior que a obrigação calculada para compensação de uma ou mais obrigação de investimentos em PD&I, de modo a compensar a inexistência ou insuficiência de investimentos em PD&I realizados pela empresa beneficiária.
+
+Na tabela abaixo, as células destacadas na coloração laranja demonstram quais as formas de aplicações ou investimentos que podem compensar as obrigações calculadas a partir do faturamento de contrapartida. De uma maneira geral os investimentos excedentes à obrigação podem compensar:
+
+- PPI: FNDCT Trimestral, convênio com ICT (ICT Púb./N.NE.CO, ICT Priv./N.NE.CO, ICT Demais Regiões) e Extra-Convênio;
+
+- FNDCT Trimestral: Extra-Convênio;
+
+- ICT Púb./N.NE.CO: ICT Priv./N.NE.CO, ICT Demais Regiões e Extra-Convênio;
+
+- ICT Priv./N.NE.CO: ICT Demais Regiões e Extra-Convênio;
+
+- ICT Demais Regiões: Extra-Convênio;
+
+- Auditoria Independente: Extra-Convênio;
+
+- FIP: Extra-Convênio;
+
+[Página 28] TABELA DE COMPENSAÇÃO (linhas = Aplicações realizadas; colunas = Obrigações que podem ser compensadas; células laranja = compensação permitida)
+
+Colunas (Obrigações): PPI | FNDCT Trimestral | ICT Púb./N.NE.CO | ICT Priv./N.NE.CO | ICT Demais Regiões | Fundos de Investimento | Auditoria Independente | Extra-Convênio
+
+Aplicação PPI: compensa TODAS as colunas (PPI, FNDCT Trimestral, ICT Púb./N.NE.CO, ICT Priv./N.NE.CO, ICT Demais Regiões, Fundos de Investimento, Auditoria Independente, Extra-Convênio).
+Aplicação FNDCT Trimestral: compensa FNDCT Trimestral e Extra-Convênio.
+Aplicação ICT Púb./N.NE.CO: compensa ICT Púb./N.NE.CO, ICT Priv./N.NE.CO, ICT Demais Regiões, Fundos de Investimento, Auditoria Independente e Extra-Convênio.
+Aplicação ICT Priv./N.NE.CO: compensa ICT Priv./N.NE.CO, ICT Demais Regiões, Fundos de Investimento, Auditoria Independente e Extra-Convênio.
+Aplicação ICT Demais Regiões: compensa ICT Demais Regiões, Fundos de Investimento, Auditoria Independente e Extra-Convênio.
+Aplicação Fundos de Investimento: compensa Fundos de Investimento e Extra-Convênio.
+Aplicação Auditoria Independente: compensa Auditoria Independente e Extra-Convênio.
+Aplicação Extra-Convênio: compensa somente Extra-Convênio.
+(Nota: a tabela original é gráfica, com células coloridas; esta leitura foi feita a partir das cores das células.)
+
+
+----------------------------------------------------------------
+6.11. AVALIAÇÃO DE APLICAÇÕES EM PD&I NA MODALIDADE DE ASSOCIAÇÃO TECNOLÓGICA DOS CENTROS DE COMPETÊNCIA EMBRAPII
+----------------------------------------------------------------
+
+Existe a possibilidade de investimentos em projetos na modalidade de associação tecnológica, onde várias empresas investem conjuntamente em projetos de PD&I executados pelos centros de competência da EMPRAPII. Nessa modalidade, o investimento realizado individualmente pela empresa pode ser contabilizado para cumprimento de sua obrigação, desde que sejam observadas algumas premissas.
+
+Primeiramente, os recursos aportados no projeto e declarados no RDA pela empresa não poderão ser contabilizados novamente na prestação de contas pelo Centro de Competência com uso de recursos da EMPRAPII.
+
+Além disso, caso o projeto seja declarado por mais de uma empresa no RDA, não poderá haver declaração duplicada do mesmo dispêndio. Cada empresa deverá informar qual parte dos dispêndios do projeto que corresponde à sua parcela de investimento.
+
+Por fim, os projetos declarados nos RDAs pela empresa continuam submetidos às regras de avaliação de mérito e dispêndio contidas na legislação e neste manual.
+
+
+----------------------------------------------------------------
+6.12. PRODUÇÃO TERCERIZADA-ASSUNÇÃO
+----------------------------------------------------------------
+
+Portaria MCTIC nº 2.495 de 3 de junho de 2020 passou a regulamentar os termos e condições para a assunção das obrigações de investimento em pesquisa, desenvolvimento e inovação pela empresa contratante de que trata o § 28, art. 11 da Lei nº 8.248/91, a qual assume as obrigações de contrapartidas de investimentos em PD&I, repassadas em parte ou na totalidade pela pessoa jurídica habilitada para que a empresa contratante, que em geral é a detentora da marca, realize os investimentos necessários. Essa relação é chamada de assunção é formalizada por meio de contrato firmado entre as partes.
+
+Nessa relação, a pessoa jurídica que possui a obrigação de contrapartida de investimento em PD&I decorrente do faturamento de produtos habilitados, utilizado para fins da geração do crédito financeiro a que se refere a Lei nº 8.248/91, repassando-a para que outra realize os investimentos em PD&I é definida como Contratada, enquanto a empresa que assume essas obrigações é denominada Contratante.
+
+Na assunção, a Contratante passa a ter a responsabilidade de apresentar o RDA com os investimentos em PD&I que tenha realizado para cumprir com a obrigação assumida. Caso a empresa Contratada necessite apresentar o Relatório de Auditoria, todo o investimento realizado para cumprir sua obrigação deverá ser auditado, incluindo aquele repassado. A contratação de firma de auditoria para realizar essa avaliação tanto na Contratada como na Contratante é de livre escolha das empresas envolvidas. Dessa forma, a análise deverá avaliar se a empresa habilitada cumpriu as obrigações de investimento em PD&I originadas da comercialização dos bens incentivados. Para tanto deverão ser observados os seguintes pontos:
+
+I – Pessoa Jurídica habilitada (Contratada):
+
+- Verificar todos os valores de faturamentos declarados pela empresa, incluindo os faturamentos com os produtos incentivados e os valores correspondentes de impostos auferidos e pagos.
+
+- Consolidar o valor total de contrapartida e o valor total da obrigação de PD&I para todos os produtos comercializados pela empresa.
+
+- Verificar a situação da empresa no que se refere a mais de uma unidade industrial com benefício fiscal aprovado.
+
+- Verificar se houve antecipação em Projetos em Convênio no ano anterior e se o projeto com antecipação foi apresentado no ano base e ainda se o valor do projeto é suficiente para cobrir o valor da antecipação ou se restou algum débito.
+
+- Verificar se os investimentos repassados para a(s) empresa(s) Contratante(s).
+
+- Verificar os investimentos em PD&I realizados pela própria pessoa jurídica habilitada relativos às obrigações de PD&I.
+
+- Consolidar para o ano base os valores de PD&IM versus os valores de investimentos aprovados, aplicando os critérios de compensação previstos no item 6.10 deste manual e determinar o valor do débito, quando for o caso.
+
+II – Empresa Contratante
+
+- Verificar todos os valores de faturamentos brutos declarados pela empresa.
+
+- Consolidar o valor total da obrigação de PD&I assumida de uma ou mais Contratada.
+
+- Verificar se houve antecipação em Projetos em Convênio no ano anterior e se o projeto com antecipação foi apresentado no ano base e ainda se o valor do projeto é suficiente para cobrir o valor da antecipação ou se restou algum débito.
+
+- Verificar se os investimentos realizados pela empresa Contratante relativos às obrigações de PD&I assumidas de uma ou mais Contratada.
+
+- Consolidar para o ano base os valores mínimos de investimento assumidos versus os valores de investimento em PD&I aprovados, aplicando os critérios de compensação previstos no item 6.10 deste manual e determinando, quando for o caso, o valor do débito que deverá ser enviado para cada Contratada.
+
+Ao fim, deverá ser emitida uma conclusão acerca do cumprimento ou não das obrigações de investimento em PD&I da empresa, pois em caso de não aprovação dos relatórios demonstrativos apresentados, ou do não cumprimento das exigências das Leis 8.248/1991, 13.969/2019 e Portaria MCTIC 2.495/2020, poderão ser aplicadas as sanções previstas na regulamentação, sem prejuízo do ressarcimento dos benefícios anteriormente usufruídos, atualizados e acrescidos de multas pecuniárias aplicáveis aos débitos fiscais relativos aos tributos da mesma natureza.
+
+
+----------------------------------------------------------------
+6.13. FUNDOS DE INVESTIMENTOS EM PARTICIPAÇÕES-FIPs
+----------------------------------------------------------------
+
+Umas das alterações na Lei nº 8.248/1991 promovidas pela Lei nº 13.674/2018 foi a possibilidade das empresas beneficiárias aplicarem em Fundos de Investimentos em Participações – FIP como forma de investimento em PD&I, conforme pode ser observado a seguir:
+
+"§ 18. Observadas as aplicações previstas nos §§ 1º e 3º deste artigo, o complemento de 2,7% (dois inteiros e sete décimos por cento) do faturamento mencionado no caput deste artigo poderá ser aplicado como segue: (Redação dada pela Lei nº 13.674, de 2018)
+
+....................
+
+II - sob a forma de aplicação em fundos de investimentos ou outros instrumentos autorizados pela CVM que se destinem à capitalização de empresas de base tecnológica e sob a forma de aplicação em programa governamental que se destine ao apoio a empresas de base tecnológica, conforme regulamento a ser editado pelo Ministro de Estado da Ciência, Tecnologia, Inovações e Comunicações; "
+
+O MCTI, por sua vez, editou e publicou a Portaria MCTIC nº 5.894, de 13.11.2018, que dispõe sobre as definições e regramentos da aplicação de recursos incentivados da Lei nº 8.248, de 23.10.1991, em fundos de investimentos autorizados pela Comissão de Valores Mobiliários (CVM), que se destinem à capitalização de empresas de base tecnológica.
+
+Dentre as orientações e condições previstas na referida portaria, algumas são necessárias para comprovar o cumprimento das obrigações de contrapartida da Lei de TICs, a saber:
+
+- Comprovante do valor depositado e integralizado no FIP;
+
+- Relatório elaborado pelo gestor do FIP, contendo todas as informações previstas no Art. 11 da Portaria MCTIC nº 5.894/2018;
+
+- Relatório consolidado e parecer conclusivo dos demonstrativos de cumprimento das obrigações estabelecidas pela Lei nº 8.248, de 1991, elaborados por Firma de auditoria independente cadastrada pelo MCTI, que ateste a veracidade das informações prestadas pela empresa beneficiária e pelo gestor do fundo aportado para o cumprimento dos dispositivos e condições previstas na Portaria MCTIC nº nº 5.894/2018; e
+
+- Ao final do período de desinvestimento do FIP:
+
+   - Relatório consolidado sobre a evolução de mercado das empresas investidas;
+
+   - Provisões para investimentos futuros pelo Fundo de Investimento em Participações nas empresas de base tecnológica.
+
+Os documentos acima mencionados deverão ser enviados pela empresa beneficiária anualmente em anexo ao RDA, excetuados os documentos e informações previstos no item "d" acima, que deverão ser apresentados somente ao final do período de desinvestimento do FIP.
+
+
+================================================================
+[Página 32] 7. ORIENTAÇÕES PRÁTICAS PARA O ENQUADRAMENTO COMO PD&I
+================================================================
+
+A tabela a seguir descreve as principais situações práticas observadas durante a análise de enquadramento dos projetos e a recomendação de tratamento. As siglas E, P e A na tabela se referem aos atributos Elegibilidade, Pertinência e Adequação.
+
+
+----------------------------------------------------------------
+7.1. INCONSISTÊNCIAS DE DATAS DE INÍCIO E FIM DE PROJETO
+----------------------------------------------------------------
+
+Nessa etapa, as datas de início e fim do projeto devem ser verificadas, pois a execução do projeto deve estar contida dentro do período do ano-base avaliado.
+
+ID 1
+Situação: As datas de início e fim se referem a períodos diferentes do ano-base, conforme legislação.
+Recomendação: Reprovar (NE) na etapa de pré-análise. Indicar no campo livre quais as datas encontradas para justificar a inconsistência.
+
+ID 2
+Situação: Projetos com data de término anterior à data de início.
+Recomendação: Com critério geral, reprovar (NE) na etapa de pré-análise. Indicar no campo livre quais as datas encontradas para justificar a inconsistência. Em situações onde o analista puder identificar que houve erro de digitação então seguir com a avaliação e incluir, no campo Recomendação, uma frase indicando sobre as datas estarem invertidas.
+
+
+----------------------------------------------------------------
+7.2. PROJETOS CONTINUADOS
+----------------------------------------------------------------
+
+São projetos que começam e terminam em anos base diferentes, ou o projeto começa e termina no mesmo ano-base, porém no ano base anterior há um projeto muito semelhante com a execução de atividades diferentes e gerando resultado diferente, caracterizando a continuidade do projeto. Para identificar esta situação, o analista deve consultar o RDA do ano anterior antes de iniciar a análise de um RDA.
+
+A avaliação de cada ano é independente, ou seja, é possível aprovar o projeto em um ano e reprová-lo em outro.
+
+ID 1
+Situação: Descrição do projeto é a mesma em todos os anos em que ele é apresentado.
+Recomendação: Só cabe aprovação, se for o caso, no primeiro ano. Para os anos seguintes, deve-se colocar uma observação: o projeto tem a mesma descrição do ano anterior; por não ter apresentado nenhuma evolução, não foi aprovado. O princípio aqui adotado é o da "contextualização temporal", isto é, o projeto deve ter uma evolução ao longo tempo.
+No primeiro ano, deve-se avaliar normalmente. Se no ano seguinte, não houver descrição do que foi executado no período, atribui-se C2 = 0 porque não há descrição que informe o que foi feito no ano (não há informação sobre a "contextualização temporal" do projeto).
+Incluir uma frase de justificativa. Pode-se incluir a observação "Não é possível identificar o que foi executado no ano base" OU "Não é possível identificar o que foi executado no ano base que justifique a evolução do projeto".
+
+ID 2
+Situação: Interpretação dos critérios C1 a C4 em projetos continuados.
+Recomendação: A situação ideal seria a empresa descrever no primeiro ano do projeto todo o planejamento das fases que pretende desenvolver. Assim, o analista deve observar/conferir ao longo dos anos se a empresa está mesmo executando as fases descritas no 1º ano.
+As informações relativas ao planejamento referentes aos critérios C1 e C4 valem para todos os anos do projeto. Porém, os graus de C2 e C3 devem refletir as atividades que a empresa desenvolveu, efetivamente, no ano em análise.
+Se não houver indícios de atividades diferentes executadas no ano base, aplicar C2 = 0.
+
+ID 3
+Situação: As datas de início e de término do projeto se dão no ano base, mas no ano seguinte é dada continuidade ao projeto (com o mesmo nome ou não).
+Recomendação: Tratar como projeto continuado, mesmo que o projeto mude de nome. O importante nesses casos é o conteúdo do projeto. Se o conteúdo (isto é, a descrição) se mantém, o projeto deve ser considerado como sendo o mesmo.
+Observar que, a cada ano, deve haver algum indício de progresso no projeto para que ele possa receber um grau > 1 no critério C2: a contextualização das etapas requer a demonstração da evolução temporal do projeto. Caso contrário, aplicar C2 = 0.
+
+ID 4
+Situação: Projetos continuados no título e nas datas, porém, os conteúdos da descrição não permitem estabelecer a relação entre os dois projetos.
+Recomendação: Tratar como projetos diferentes.
+
+
+----------------------------------------------------------------
+7.3. PROJETOS IGUAIS OU MUITO SEMELHANTES NO MESMO ANO OU NÃO
+----------------------------------------------------------------
+
+Estas situações ocorrem frequentemente no caso de versionamento de produtos, isto é, projetos que tratam do desenvolvimento ou da geração de diferentes versões do mesmo produto básico.
+
+ID 1
+Situação: Casos de RDA contendo mais de um projeto, nos quais o objeto apresenta características iguais ou semelhantes, diferindo apenas em detalhes que não interferem na avaliação dos critérios.
+Recomendação: É o que ocorre no versionamento de produtos. Se as diferenças estão claras, analisar o enquadramento de todas as versões.
+Para o projeto ser aprovado, a sua descrição deve dar indícios do problema particular que foi resolvido e dos resultados gerados naquele projeto específico.
+Exemplo: a empresa apresenta vários projetos semelhantes separadamente, um para cada produto da sua linha.
+Se não há elementos para caracterizar a "individualidade" do projeto, atribuir C2 = 0, pois não há descrição que informe claramente o que foi feito para cada projeto.
+
+ID 2
+Situação: Projetos com descrição e atividades semelhantes, porém com resultados (produtos) diferentes.
+Recomendação: As atividades para cada produto devem estar bem caracterizadas para receber grau C2 = 2 ou 3.
+Se não houver elementos para caracterizar a "individualidade" dessas atividades, atribuir C2 = 0, pois não há descrição que informe claramente o que foi feito para o projeto em análise.
+
+ID 3
+Situação: Dois projetos para desenvolvimento do mesmo produto para clientes diferentes, sendo a estrutura e texto dos projetos similares.
+Recomendação: Aplica-se o mesmo raciocínio do caso anterior.
+
+ID 4
+Situação: Projetos idênticos em dois anos base sequenciais, não evidenciando a evolução temporal do projeto
+Recomendação: Atribuir C2 = 0 no segundo ano. Incluir no campo Recomendação a frase:
+"O projeto tem a mesma descrição do ano anterior, não tendo apresentado nenhuma evolução."
+
+
+----------------------------------------------------------------
+7.4. PROJETOS DE PROCESSO PRODUTIVO
+----------------------------------------------------------------
+
+É preciso tentar identificar se o projeto é mesmo de TIC se há um problema/desafio a ser superado. Se for identificado como projeto de gestão da produção ou somente a linha de produção ser de um produto de TIC não é suficiente.
+
+Estudar e otimizar o layout é problema de engenharia de produção, não de TIC (reprovado na pré-análise). Ajuste de parâmetros de produção não é TIC (reprovado na pré-análise).
+
+Comprar um software para otimizar a produção não é fazer PD&I (grau C2 = 1).
+
+Desenvolver um software ou uma máquina para solucionar um problema da linha de produção pode ser PD&I (analisar).
+
+ID 1
+Situação: Projetos referentes a melhorias no processo produtivo, como a automatização da linha de produção.
+Recomendação: Caso não existam indícios de atividades de PD&I, como atividades centrais do projeto, este não pode ser enquadrado como sendo de PD&I.
+
+ID 2
+Situação: Integração de software de controle da produção com ERP.
+Recomendação: Considerado como elegível. Considerar como projeto de desenvolvimento.
+
+ID 3
+Situação: Automação de processos administrativos.
+Recomendação: O desenvolvimento de softwares para a automação de processos administrativos ou de gestão pode ser considerado elegível pela SETAD, desde que tenham como justificativa e motivação a melhoria dos processos da empresa. Para tanto, deve ser analisado de acordo com os critérios de C1 a C4.
+
+
+----------------------------------------------------------------
+7.5. ENSAIOS E TESTES
+----------------------------------------------------------------
+
+ID 1
+Situação: Convênio com ICT para realização de ensaios para a empresa, ou projeto que é um guarda-chuva dos ensaios que são realizados com os diversos produtos da empresa.
+Recomendação: Projetos exclusivamente de ensaios/testes de rotina da empresa não devem ser considerados como PD&I, mesmo se forem testes exigidos por agência reguladora ou INMETRO.
+Os ensaios devem estar vinculados a um projeto de PD&I, e estes vínculos devem estar explícitos na descrição do projeto no RDA do ano base ou em RDA do ano base anterior. Caso contrário deve ser atribuído grau C2 = 1.
+
+ID 2
+Situação: A descrição do projeto apresenta simplesmente o tipo de teste realizado.
+Não há uma descrição sobre como o teste foi planejado, executado e seus resultados. Por exemplo: teste de campo, teste sistêmico, teste de desempenho, teste unitário, teste de confiabilidade, teste de stress etc.
+Recomendação: A simples menção sobre o tipo de teste realizado significa C3=0.
+Se existir uma descrição sobre como o teste foi realizado, por exemplo, seu planejamento, sua execução ou seus resultados então analisar C3 segundo a metodologia.
+
+ID 3
+Situação: Declaração de projeto de consultoria científica e tecnológica, ensaios e testes.
+Recomendação: A partir novo Decreto 10.602/2021, as atividades de consultoria científica e tecnológica, de ensaios e de testes que sejam caracterizadas como uma prestação de serviço deverá ser declarada no RDA como dispêndios de Serviços Técnicos e estes associados a projetos de PD&I. As alterações tiveram o propósito de reduzir a subjetividade e divergências de entendimento, que frequentemente geravam impasses na avaliação dos RDAs, e muitas vezes contribuíram para a geração de passivo, com ganhos marginais na manutenção dessas possibilidades de enquadramento, em que não se encontra um consenso com base na literatura.
+Contudo, cabe ressaltar que as atividades de ensaios e de testes, que fazem parte do ciclo de desenvolvimento do projeto, podem ser enquadráveis como atividades de pesquisa e inovação, caracterizando-se como uma etapa do projeto de PD&I, desde que sejam realizadas de forma estruturada, com objetivos, problemas técnico-científicos e descrição vinculada aos projetos a que se referem, devendo estar descrita de uma forma clara, explícita e contextualizada para os alcances dos objetivos propostos.
+
+
+----------------------------------------------------------------
+7.6. ADEQUAÇÃO A NORMAS, PADRÕES DE FUNCIONAMENTO E PROTOCOLOS
+----------------------------------------------------------------
+
+ID 1
+Situação: O projeto tem como objetivo apenas adequar o produto a alguma norma, padrão ou protocolo ou ainda homologar o produto no Inmetro, Anatel ou equivalente, sem a execução clara de atividade de PD&I.
+Recomendação: Se houver indícios fortes que não foi uma questão apenas operacional, C2 ≠ 1.
+Observação: quando a homologação for uma etapa dentro de um projeto de PD&I, o dispêndio com essa homologação é elegível. Por exemplo, um novo produto de telefonia que necessita de homologação da Anatel antes de ser lançado no mercado
+
+ID 2
+Situação: Projetos de implementação ou adequação a normas relativas a processos de gestão administrativa ou de produção, por exemplo, programa de qualidade, ROHS, certificação CMM, mps.Br, Certics e similares.
+Recomendação: Projetos de processos de gestão não são TIC, reprovar na pré-análise.
+
+
+----------------------------------------------------------------
+7.7. PROJETOS DE LABORATÓRIOS
+----------------------------------------------------------------
+
+São projetos que apresentam a implantação/construção de um laboratório necessário para o desenvolvimento do projeto de uma nova linha de produtos ou um produto em específico. Alguns projetos deste tipo estão relacionados à criação de laboratórios para formação/capacitação de profissionais.
+
+Não é suficiente, para fins de avaliação, que o projeto apresente apenas os detalhes de sua construção/montagem ou equipamentos utilizados. O projeto deve apresentar a atividade fim do laboratório, ou seja, o motivo pelo qual ele está sendo criado.
+
+ID 1
+Situação: Laboratório com vínculo explícito com [produto/linha de pesquisa/formação/capacitação].
+Recomendação: O analista deve identificar no RDA qual projeto ou projetos o laboratório está vinculado.
+Analisar os projetos vinculados como sendo complementares, isto é, a descrição de um projeto ajuda no entendimento do outro e vice-versa. Os indícios devem sempre provir do texto do projeto em análise.
+Incluir frase no campo Recomendação:
+"O projeto de laboratório "Projeto A" está relacionado com o "Projeto B", portanto ambos foram analisados como sendo projetos complementares. A descrição do "Projeto A" indica que, para [o desenvolvimento do "Projeto B"]/[o desenvolvimento da linha de produtos apresentada, por exemplo, nos "Projeto B" e "Projeto C"]/[a formação/capacitação desejada, apresentada no "Projeto X"], é necessário, antes, executar este projeto de laboratório. É desejável, ainda, que sejam descritas as etapas de implantação ou de melhoria do laboratório."
+
+ID 2
+Situação: Projeto de laboratório com vínculo explícito com uma [linha de pesquisa/linha de produtos], porém a descrição da contribuição do laboratório não é satisfatória
+Recomendação: O analista deve identificar no RDA qual o projeto vinculado. Analisar os projetos vinculados como sendo complementares, isto é, a descrição de um projeto ajuda no entendimento do outro e vice-versa. Os indícios devem sempre provir do texto do projeto em análise.
+Incluir frase no campo Recomendação:
+"Contextualizar o projeto significa, nesse caso específico, descrever, em detalhes, como o projeto do laboratório se relaciona com a [linha de pesquisa/linha de produtos] que serão executados pela empresa ou instituição conveniada. A descrição apresentada não foi satisfatória [suficiente] para demonstrar a contribuição do laboratório para a [linha de pesquisa/linha de produtos] mencionada no projeto. É necessário detalhar como os recursos do laboratório serão utilizados para tratar os tipos de problemas técnico-científicos abordados, [a saber,...]. É desejável, ainda, que sejam descritas as etapas de implantação ou de melhoria do laboratório."
+
+ID 3
+Situação: Projeto de laboratório sem vínculo explícito com uma linha de pesquisa ou de desenvolvimento [ou de formação/capacitação]
+Recomendação: Caso o analista não identifique um projeto de PD&I vinculado, então C1 = 1 e C2 = C3 = 0 e C4 de acordo com a avaliação.
+Incluir frase no campo Recomendação:
+"Contextualizar o projeto significa, nesse caso específico, descrever, em detalhes, como o projeto do laboratório se relaciona aos projetos de desenvolvimento tecnológico [ou de formação/capacitação] que são ou serão executados pela empresa ou instituição conveniada. É necessário mostrar a contribuição do laboratório para uma linha de pesquisa ou de desenvolvimento da empresa ou instituição conveniada, explicitando, também, como os recursos do laboratório são ou serão utilizados para tratar os tipos de problemas técnico- científicos que são ou serão abordados. É desejável, ainda, que sejam descritas as etapas de implantação ou de melhoria do laboratório."
+
+ID 4
+Situação: Montagem de laboratório para capacitação de alunos ou da equipe.
+Recomendação: Deve ser avaliado como um projeto de "Formação e capacitação", critérios C5 a C7, e não como "PD&I stricto sensu", C1 a C4.
+A descrição deve contextualizar o curso no qual o laboratório será aplicado.
+
+
+----------------------------------------------------------------
+7.8. PROJETOS DE FORMAÇÃO E CAPACITAÇÃO
+----------------------------------------------------------------
+
+ID 1
+Situação: Pagamento do curso de graduação ou bolsa para funcionário.
+Recomendação: A descrição deve conter informações básicas, tais como o nome do curso e da instituição e o nome do funcionário beneficiado. Analisar pelos critérios C5 a C7.
+Do contrário, C5 = 0 (falta de informação ou informação insuficiente).
+
+ID 2
+Situação: Pagamento de cursos de gestão de projeto, gestão (por ex., ITIL, COBIT, Gerenciamento de Projetos) de TIC e similares.
+Recomendação: Esses cursos não devem ser considerados TIC na pré-análise.
+Se estiverem junto com outros cursos que são TIC e não houver discriminação dos valores de cada curso, glosar tudo. Se tiver discriminado o valor de cada curso, glosar apenas o que não for TIC.
+
+ID 3
+Situação: Curso implantado em universidade com apoio da empresa.
+Recomendação: Analisar C5 a C7. Caso seja mencionada a previsão de alunos formados por ano, aprovar com C7 = 2.
+Se não houver essa informação, atribuir grau C7 = 0.
+
+ID 4
+Situação: Projetos conveniados, onde a ICT é uma incubadora de empresas, credenciada pela CATI, e o projeto é executado por empresa incubada.
+Recomendação: Segundo o § 8º, do art. 12, do Decreto nº 10.356/2020, é permitida a contratação de projetos de pesquisa e desenvolvimento com empresas vinculadas a incubadoras credenciadas pela CATI.
+Analisar os projetos de PD&I de acordo com as normas e regulamentos do MCTI
+
+
+================================================================
+[Página 38-47] 8. ORIENTAÇÕES PRÁTICAS PARA TRATAMENTO DOS DISPÊNDIOS
+================================================================
+
+A tabela a seguir descreve as principais situações práticas observadas durante a análise dos dispêndios declarados, em qual atributo se insere a situação (Elegibilidade, Pertinência ou Adequação), e a recomendação de tratamento.
+
+(Formato de cada item: ID | Descrição da Ocorrência | Atributo Correspondente | Recomendação)
+
+------------------- GERAL -------------------
+
+ID 1 | Não há menção ao dispêndio na descrição de investimento, embora conste o valor na tabela | Elegibilidade | Não aprovar
+
+ID 2 | Em casos onde há justificativa na descrição de investimentos mas não consta valor na tabela. | Ignorar | Ignorar
+
+ID 3 | Há descrição dos dispêndios, e essa descrição permite concluir que não há relação dos dispêndios com projeto de PD&I em TIC. | Elegibilidade | Não aprovar
+
+ID 4 | Há descrição dos dispêndios, e essa descrição permite concluir que, embora o dispêndio seja elegível, não é demonstrada a aplicabilidade àquele projeto de PD&I específico. | Pertinência | Não aprovar
+
+ID 5 | Há menção aos dispêndios, porém não há justificativa e detalhamento da aplicabilidade ao projeto de PD&I. | Pertinência | Não aprovar
+
+ID 6 | Na Descrição de Investimentos, a descrição apresentada para justificar o valor da Tabela compreende itens elegíveis e não elegíveis ou pertinentes e não pertinentes ou adequados e não adequados. | Analisar EPA | Aprovar somente itens descritos com justificativa EPA satisfatória. Glosar os demais itens, conforme a análise de EPA.
+
+ID 7 | Em qualquer rubrica, o valor descrito no texto é menor ou igual ao valor da Tabela, ou seu número de itens ou quantidade de horas descrito no texto é maior do que o valor da Tabela. | Analisar EPA | Aprovar o menor valor dentre o campo descritivo ou da tabela, informando da situação de divergência.
+
+ID 8 | Dispêndios lançados em rubricas erradas. | Analisar EPA | Aprovar e reclassificar o dispêndio na rubrica apropriada no ato da análise.
+
+ID 9 | Na descrição dos dispêndios da rubrica há menção a itens elegíveis adicionados a expressões como: "e outros", "etc." | Adequação | Entende-se que os itens não discriminados são do mesmo tipo dos que foram mencionados, porém com valor insignificante perante aqueles. Analisar Adequação.
+
+ID 10 | Cursos elegíveis (TIC) e não elegíveis (não TIC) num mesmo projeto | Analisar EPA | Analisar o projeto em função dos cursos de TIC discriminados e, se o projeto for enquadrado, reprovar os dispêndios referentes aos cursos não elegíveis.
+
+ID 11 | Dispêndios em projetos de duração muito curta (1 a 15 dias) ou em projetos com atividades tipicamente curtas mas declaradas num período longo (ex. 1 ano para fazer especificações). Nos casos de horas com RH, verificar detalhamento na Rubrica RH. | Adequação | Verificar atentamente se as atividades descritas podem ser executadas no período indicado (ou, na situação oposta, se os prazos são exagerados) e se os dispêndios correspondentes são adequados ao tempo declarado.
+
+------------------- RH -------------------
+
+ID 12 | O projeto não tem RH Direto mas tem outras rubricas. | EPA | Analisar EPA das demais rubricas.
+
+ID 13 | Na descrição do investimento, há menção aos RH Diretos/Indiretos envolvidos (nome, função, etc..), porém não são descritas as atividades executadas e quais etapas do projeto o colaborador está associado, de modo que seja possível identificar claramente a atuação dos colaboradores. | Pertinência | Não aprovar
+
+ID 14 | Verificar se há indícios de que as atividades declaradas do RH Direto/Indireto são incompatíveis com as atividades desenvolvidas no projeto. | Pertinência | Não aprovar
+
+ID 15 | Descrição completa de valores e de atividades de RH Direto no projeto. No entanto, é possível identificar que esses dispêndios foram lançados no RH Indireto. | EPA | Aprovar e reclassificar o dispêndio na rubrica apropriada no ato da análise.
+
+ID 16 | Não há informação da quantidade de horas trabalhadas e/ou valores dispendido por pessoa no projeto, ou se a quantidade de horas trabalhadas por pessoa por mês exceder os limites de jornada de trabalho e horas extras determinados pela legislação trabalhista vigente, consideradas eventuais condições pactuadas em Acordo Coletivo. | Adequação | Não aprovar
+
+ID 17 | Há justificativa das atividades dos RH, porém não são discriminados quais são os de nível médio e os de nível superior. | PA | Analisar PA
+
+ID 18 | Há justificativa das atividades dos RH na descrição de investimento com discriminação entre níveis médio e superior. O número de RH e total de dispêndio estão de acordo com a tabela. Entretanto, há inconsistência entre a descrição de investimento e a tabela com relação à quantidade de RH por nível (superior e médio). | PA | Analisar PA
+
+ID 19 | Valores diferentes na descrição e na tabela de dispêndios (número de RH e valores) | Adequação | Ver orientações gerais (tabela GERAL)
+
+ID 20 | Em projetos de Formação e Capacitação onde há treinamento interno e são declaradas na rubrica de RH horas e valores dos funcionários treinados. | PA | Vedada dupla contabilização dos dispêndios com os profissionais que participaram da capacitação tanto na rubrica RH como Treinamento.
+
+ID 21 | Estagiário e Menor Aprendiz: o estagiário é funcionário da empresa, ainda que sob um contrato específico. Se as atividades forem dentro de um projeto de PD&I, as horas podem ser aprovadas como RH Direto do projeto, preferencialmente. Se as atividades forem realizadas fora de projetos de PD&I não podem ser aprovadas. Um projeto para pagar os estagiários sem distinção de onde vão trabalhar não é elegível. | EPA | Analisar EPA
+
+------------------- EQUIPAMENTOS/SOFTWARE -------------------
+
+ID 22 | São mencionados os gastos com equipamentos e sua finalidade no projeto, na descrição do investimento, porém não estão discriminados item a item. | Pertinência/Adequação | Analisar PA do conjunto dos dispêndios
+
+ID 23 | Projeto continuado em que a compra de equipamentos é uma etapa do projeto de PD&I para o ano base, prevista na proposta inicial. | Pertinência/Adequação | Analisar PA
+
+ID 24 | Investimentos da empresa em projetos próprios: Não foi informado se os valores lançados na rubrica equipamentos são de aquisição ou depreciação calculada. | Pertinência/Adequação | Não aprovar
+
+ID 25 | Aquisição e/ou aluguel de equipamentos pela ICT, informando o valor total de aquisição e/ou aluguel na rubrica, incluindo frete. | Pertinência/Adequação | Analisar PA.
+
+ID 26 | Cessão de equipamentos à ICT pela empresa incentivada que não seja possível identificar se o valor informado na rubrica é de custo de produção. | Elegibilidade | Não aprovar
+
+ID 27 | Cessão definitiva de equipamentos à ICT pela empresa incentivada não foi informado se os valores na rubrica se referem ao valor do equipamento deduzido a depreciação acumulada dos anos de uso | Elegibilidade | Não aprovar
+
+ID 28 | Na descrição dos dispêndios de Equipamentos, estão incluídos serviços, tais como Serviços de Garantia Estendida, Contrato de Manutenção. | Elegibilidade | Analisar EPA sobre os valores de relativos aos equipamentos e reclassificar os demais valores como Serviços.
+
+ID 29 | Na descrição dos dispêndios de Equipamentos e Software estão incluídos os serviços de instalação e implantação para o funcionamento dos itens referidos. | PA | Analisar PA
+
+ID 30 | Dispêndios com móveis de escritório para laboratório. | EPA | São elegíveis. Analisar EPA
+
+ID 31 | Aquisição de bens de informática em TIC (notebook, computador etc) deverão ser depreciados em 3 anos | PA | Analisar PA
+
+ID 32 | Aquisição de bens de informática (Não TIC) deverão ser depreciados em 5 anos | PA | Analisar PA
+
+ID 33 | Kits de treinamento para laboratórios de capacitação (Aporte Material) | PA | São elegíveis. Analisar PA
+
+ID 34 | Projetos Próprios: Casos em que a empresa adquire equipamentos a serem usados em mais de um projeto. | PA | Deve-se deixar indicado o valor de depreciação relativo a cada equipamento, com descrição do cálculo de rateio para cada projeto individualmente. Analisar PA
+
+ID 35 | Há lançamento de dispêndios com mobiliário de escritório, tais como: mesa, cadeira | EPA | Caso a descrição comprove que o mobiliário seja indispensável ao desenvolvimento do projeto ou para uso em laboratório de PD&I, analisar EPA. A rubrica correta é "Equipamentos – Outros". Deve constar o valor da depreciação.
+
+ID 36 | Investimentos da empresa em projetos próprios: Não foi informado se os valores lançados na sub-rubrica Software são de aquisição ou amortização calculada. | Pertinência/Adequação | Não aprovar
+
+ID 37 | Aquisição de software pela ICT informando o valor total de aquisição na rubrica. | Pertinência/Adequação | Analisar PA.
+
+ID 38 | Dispêndios com software que não apresentam informações mínimas para sua aceitação: nome e tipo de software, data de aquisição, finalidade. | Adequação | Não aprovar
+
+ID 39 | Dispêndios com equipamentos (bens de informática/outros) que não apresentam informações mínimas para sua aceitação: descrição do equipamento, data da aquisição e finalidade | Adequação | Não aprovar
+
+ID 40 | Aluguel (máquina) | Pertinência/Adequação | Analisar PA. Itens elegíveis desde que tenham um vínculo, associação, correlação específica com o projeto em análise.
+
+------------------- OBRAS CIVIS -------------------
+
+ID 41 | A finalidade das obras consiste em atender o Processo Produtivo Básico (PPB) ou para áreas distintas às destinadas à realização de PD&I. | Elegibilidade | Não aprovar
+
+ID 42 | Há menção às obras realizadas e sua justificativa no projeto. Porém não há menção da data de execução e/ou identificação da pessoa física ou jurídica executora. | Pertinência | Não aprovar
+
+ID 43 | Projeto Próprio - Há justificativa para a obra realizada, assim como suas etapas e valores. Porém, o valor informado na rubrica não especifica se o valor do dispêndio se refere ao seu total ou à sua depreciação. | Pertinência/Adequação | Não aprovar
+
+ID 44 | Projeto Conveniado, ICT - Há justificativa para a obra realizada, data, dados da empresa ou pessoa física executora, assim como suas etapas e valores. | Pertinência/Adequação | São elegíveis. Analisar PA
+
+------------------- LIVROS E PERIÓDICOS -------------------
+
+ID 45 | Os dispêndios são pertinentes, porém não há declaração nominal ou agrupada dos livros e periódicos adquiridos. | Adequação | Não aprovar
+
+ID 46 | Existe declaração nominal dos livros ou periódicos por item. Entretanto, não há declaração de seus valores. | Adequação | Não aprovar
+
+ID 47 | Aquisição de livros importados discriminando o preço do item e tarifas de importação ou frete. | Pertinência/Adequação | Entende-se que as tarifas fazem parte do custo de aquisição do bem. Analisar PA
+
+ID 48 | Assinatura mensal ou anual de periódicos | Pertinência/Adequação | São elegíveis. Analisar PA
+
+------------------- MATERIAL DE CONSUMO PARA PROTÓTIPO / OUTROS -------------------
+
+ID 49 | São mencionados os gastos com material de consumo e sua finalidade no projeto, na descrição do investimento, porém não estão discriminados item a item, ou, pelo menos, especificados por tipo e/ou utilização. | Pertinência/Adequação | Não aprovar
+
+ID 50 | Existe declaração nominal dos materiais de consumo adquiridos por item e estão relacionados ao projeto. Entretanto, não há discriminação de seus valores de aquisição. | Adequação | Não aprovar
+
+ID 51 | São mencionados os gastos com material de consumo e sua finalidade no projeto, na descrição do investimento. | Pertinência/Adequação | Analisar PA. Não há necessidade de serem discriminados item a item, bastando serem especificados por tipo e/ou utilização.
+
+ID 52 | Aquisição de material importado de consume e/ou de protótipo discriminando o preço e tarifas de importação e/ou frete. | Pertinência/Adequação | Analisar PA. As tarifas fazem parte do custo de aquisição do material. Analisar PA
+
+ID 53 | Kits de treinamento para laboratórios de capacitação (Aporte Material) | PA | São elegíveis. Analisar PA
+
+------------------- VIAGEM -------------------
+
+ID 54 | Os dispêndios com viagens não especificamente destinadas à atividade de PD&I, tais como: desenvolvimento de fornecedores, visitas comerciais, ou homologação de produto junto aos clientes. | Elegibilidade | Não aprovar
+
+ID 55 | Os dispêndios com viagens são majoritariamente do tipo: desenvolvimento de fornecedores para protótipos ou insumo essencial ao projeto de PD&I ou ainda homologação de órgão oficial (exemplos: Anatel, Inmetro, SRF) | Elegibilidade | Avaliar EPA
+
+ID 56 | Viagens relacionadas a projeto cujo dispêndio com RH tenha sido glosado total ou parcialmente. | Pertinência | Analisar PA levando em conta apenas os dispêndios referentes ao RH aprovado.
+
+ID 57 | Não é possível identificar quem viajou (nome ou função), finalidade da viagem e/ou data de início e fim da viagem | Pertinência | Não aprovar
+
+ID 58 | Viagens realizadas por pessoas que não compõem a equipe técnica do projeto. | Pertinência | Não aprovar
+
+------------------- TREINAMENTO -------------------
+
+ID 59 | É informado apenas o título do treinamento. | Elegibilidade | Não aprovar
+
+ID 60 | Há descrição do treinamento realizado aplicável ao projeto, porém sem informações suficientes para justificar o gasto no contexto do projeto. Exemplos: lista ou identificação dos participantes do treinamento, local, data, duração ou pessoa física ou jurídica contratada para realizar o treinamento. | Pertinência/Adequação | Não aprovar
+
+ID 61 | As pessoas declaradas na descrição do investimento em treinamento são incompatíveis com a quantidade de pessoas envolvidas no projeto. | Adequação | Aprovar o menor quantitativo e reprovar o excedente. Caso não seja possível distinguir, reprovar o quantitativo total.
+
+ID 62 | Não é possível identificar quem participou do treinamento (nome ou função) | Pertinência | Não aprovar
+
+ID 63 | Treinamentos relacionados a projeto cujo dispêndio com RH tenha sido glosado total ou parcialmente. | Pertinência | Analisar PA, levando em conta apenas os dispêndios referentes ao RH aprovado.
+
+ID 64 | Cursos superiores para empregado da empresa, com identificação do participante e em instituição que obedeça ao disposto no inciso V do art. 2º do Decreto 10.356/2020, ainda que sem indícios de pertinência ao projeto. | Pertinência/Adequação | Embora não seja pertinente ao projeto, o treinamento pode receber tratamento excepcional. No entanto, se for aprovado, observar que deveria ter sido declarado num projeto em separado.
+
+------------------- SERVIÇOS DE TERCEIROS – TECNOLÓGICOS / OUTROS -------------------
+
+ID 65 | Projeto Conveniado: a descrição dos dispêndios com serviços se refere a atividades essenciais ao desenvolvimento do projeto de PD&I. | EPA | Analisar EPA e não aprovar se a quantidade de atividades essenciais ao projeto que estão sendo terceirizadas for elevada o suficiente para indicar terceirização da atividade de PD&I.
+
+ID 66 | Os dispêndios com serviços envolvem atividades tais como: pesquisa de mercado, estudos de viabilidade econômica, tradução de documentos, recrutamento e seleção de RH, homologação de produto no cliente, certificações de maturidade de desenvolvimento de software e consultorias não relacionadas à atividade principal do projeto, como por exemplo, consultorias para preenchimento do formulário Sigplani ou consultorias de gestão. | Elegibilidade | Não aprovar
+
+ID 67 | A relação de serviços descritos é parcial ou genérica, porém sem discriminação dos valores pagos por serviço. | Pertinência | Não aprovar
+
+ID 68 | Investimentos próprios: Os valores dos dispêndios com serviços representam grande parte do valor total no projeto. | PA | Analisar PA. Caso o projeto seja realizado totalmente (ou sua maior parte) por terceiros, a empresa deve apresentar todos os gastos que foi realizado pela empresa terceira nos campos apropriados do RDA. Não sendo aceitos os gastos com pagamento de taxa de administração ou lucros cobrados pela empresa terceira para fins de cumprimento de PD&I.
+
+ID 69 | Não há menção do nome da pessoa física ou jurídica contratada e do tempo de execução (quando aplicável) | Pertinência | Não aprovar
+
+ID 70 | Há lançamento nas rubricas Serviços Técnicos de Terceiros – Tecnológicos e Serviços Técnicos de Terceiros – Outros mas a justificativa não está separada. | EPA | Analisar EPA e acrescentar recomendação para que a justificativa seja feita para cada rubrica separadamente
+
+ID 71 | Há menção aos serviços Tecnológicos / Outros realizados, com a descrição e a aplicabilidade ao projeto de PD&I. Além disso, são discriminados todos os valores da nota, inclusive impostos. | EPA | Analisar EPA. Entende-se que os impostos fazem parte do custo de aquisição do serviço.
+
+ID 72 | Há menção aos Serviços de Terceiros Tecnológicos realizados por outra unidade da ICT, com a descrição e detalhamento da aplicabilidade ao projeto de P,D&I. | EPA | Analisar EPA.
+
+ID 73 | Projeto Conveniado: Na descrição de investimentos próprios, existe pagamento de serviços da própria ICT contratada. | EPA | Analisar EPA sobre os valores de relativos aos serviços contratados e reclassificar como gasto do projeto conveniado.
+
+ID 74 | Há lançamentos de dispêndios com serviços de alimentação, tais como coffee break, almoço, lanches, dentre outros. | Elegibilidade | Não aprovar. Tais serviços não são essenciais ao desenvolvimento do projeto.
+
+ID 75 | Há lançamento de dispêndios com RENOVAÇÃO de certificados. Ex.: ANATEL, INMETRO, etc | Elegibilidade | Não aprovar. A RENOVAÇÃO não pertence ao ciclo de desenvolvimento do projeto.
+
+------------------- OUTROS CORRELATOS -------------------
+
+ID 76
+Definição: O item se caracteriza como "Outros Correlatos" quando apresenta um vínculo, correlação específica com o projeto em análise e não está classificado em nenhuma das outras rubricas.
+Condição de Elegibilidade:
+   - Geral: Caso o item seja específico ao projeto, será ELEGÍVEL, observada as ocorrências e condições da ID 1 da tabela (GERAL).
+   - Declaração de Investimento Próprio: Caso o item não seja específico ao projeto, somente será ELEGÍVEL se estiver claramente descrito que faz parte de uma segregação de valores atribuídos por meio de um rateio proporcional, preferencialmente indicando seus direcionadores de rateio (ex. N° de RH, área ocupada, valor do projeto ...). Consultar ID 2 da tabela (GERAL).
+   - Declaração de Investimento em Convênio: Caso o item não seja específico ao projeto, somente será ELEGÍVEL se estiver claramente descrito que faz parte de uma segregação de valores atribuídos por meio de um rateio proporcional, preferencialmente indicando seus direcionadores de rateio (ex. N° de RH, área ocupada, valor do projeto ...). Consultar ID 2 da tabela (GERAL). Porém, em alguns casos, se o rateio não está explícito na descrição, pode ser aceito se declarado em Custos Incorridos.
+
+ID 77 | Atributo: Elegibilidade | Recomendação: Analisar PA. Itens elegíveis desde que tenham um vínculo, associação, correlação específica com o projeto em análise.
+Itens abrangidos:
+   - Aluguel (espaço físico locado fora da empresa ou ICT)
+   - Aluguel de linha privada de telefonia ou canal Internet
+   - Assessoria jurídica (ex.: apoio sobre regulamentação da Anatel num projeto de telefones celulares.)
+   - Assinatura de aplicativos e serviços on-line, inclusive bases de dados como Scopus, Inspec ou IEEE
+   - Despesas com a publicação de artigos; identificação DOI
+   - Hospedagem de servidores específicos para o projeto.
+   - *Manutenção de equipamento
+   - *Serviços de transporte de bens, malote, Sedex, DHL e semelhantes.
+   - Gastos com registro e depósito de patentes, ou relativo à direito autoral.
+
+ID 78 | Atributo: PA | Recomendação: Analisar PA. Itens não específicos ao projeto são elegíveis desde que tenham em sua descrição referência explícita de segregação de valores atribuídos por meio de um rateio proporcional.
+Itens abrangidos:
+   - Água
+   - Aluguel (espaço físico)
+   - Aluguel de prédio para a ICT.
+   - Despesas com biblioteca técnica, reprografia.
+   - Energia
+   - Internet
+   - IPTU
+   - ISSQN
+   - Manutenção de equipamentos de uso geral (ex.: PCs, notebooks, impressoras)
+   - Manutenção de laboratório ou ambiente (ex.: elétrica, marcenaria, ar condicionado)
+   - Prevenção contra incêndios e desastres naturais
+   - Seguro patrimonial
+   - Serviço de segurança
+   - Serviço de suporte administrativo (ex.: compras, finanças, administração de RH)
+   - Serviço de suporte de informática (ex.: operação de rede, suporte ao usuário, operação de data center)
+   - Serviços de manutenção e limpeza dos prédios.
+   - Telefonia
+   - Transporte de RH: acesso ao local de trabalho (Fretado)
+
+ID 79 | Atributo: Elegibilidade | Recomendação: Não aprovar. Despesa cujo vínculo com o projeto não se justifica.
+Itens abrangidos:
+   - Consultoria específica para submissão de PPB, elaboração de RDA, prestação de contas, treinamento nessas tarefas, assessoria jurídica sobre a Lei de TICs
+   - Despesas com editais, avisos em jornal, DOU.
+   - Hospedagem de servidores corporativos de aplicativos ou armazenamento
+   - Renovação das licenças de softwares corporativos (ERP)
+   - Serviços de manutenção e limpeza do terreno e jardinagem.
+   - Serviços de alimentação, tais como coffee break e outras refeições.
+   - Tarifas bancárias, juros e multas
+
+ID 80 | Itens (Atributo/Recomendação no mesmo bloco da ID 79 — Elegibilidade / Não aprovar):
+   - Aluguel de carro (Viagens)
+   - Renovação das licenças de softwares diversos (sistemas operacionais, pacotes "office")
+   (Nota: na página original, esta linha aparece agrupada com a ID 79 no atributo Elegibilidade / Não aprovar. A seguir há uma linha complementar sem ID visível:)
+
+(sem ID visível) | Transporte de RH: deslocamentos de interesse do projeto (Viagens) | Pertinência | Analisar EPA. Reclassificar os dispêndios lançados em rubrica errada.
+
+ID 81 | Itens declarados como "Outros Correlatos" que deveria, estar lançados em Serviços (ex.: Manutenção de equipamento específico ao projeto) | EPA | Analisar EPA
+
+------------------- CUSTOS INCORRIDOS PROJETOS CONVENIADOS -------------------
+
+ID 82 | Caso os valores do dispêndio ultrapassem os valores limites: 20% | Elegibilidade | Aprovar até o valor limite elegível. Glosar o excedente.
+
+ID 83 | Projeto cujos dispêndios foram totalmente reprovados. | Pertinência | Não aprovar os dispêndios com Custos Incorridos.
+
+ID 84 | Projeto cujos dispêndios foram parcialmente reprovados. | Pertinência | Aprovar até o valor máximo proporcional aos dispêndios aprovados.
+
+ID 85 | Projetos em que ocorreu a cessão de equipamentos e/ou software. | Elegibilidade | Não aprovar os custos incorridos sobre os valores da Cessão de Materiais. Observar que os custos incorridos devem ser calculados sobre o montante financeiro a ser gasto no projeto, excluindo a cessão.
+
+------------------- RELATÓRIO SIMPLIFICADO -------------------
+
+ID 86
+Descrição/Recomendação: De acordo com o Decreto nº 10.356/2020, na elaboração dos relatórios, admitir-se-á a utilização de relatório simplificado, no qual a empresa poderá, em substituição aos dispêndios previstos nos incisos de V a X do caput do art. 12, adotar os seguintes percentuais aplicados sobre a totalidade dos dispêndios previstos nos incisos I a IV do caput do art. 12, desde que efetivamente aplicado em atividades de PD&I:
+   - vinte por cento quando se tratar de projetos executados em convênio com instituições de ensino e pesquisa credenciadas pelo CATI; e
+   - vinte por cento nos demais casos.
+
+ID 87
+Avaliação de Dispêndios: Montante Principal
+Recomendação: Montante principal é o somatório dos dispêndios com os incisos I, II, III e IV;
+   I - aquisição ou uso de programas de computação e aquisição de máquinas, de equipamentos, de aparelhos e de instrumentos, seus acessórios, sobressalentes e ferramentas;
+   II - aquisição, implantação, ampliação ou modernização de infraestrutura física e de laboratórios de PD&I, realizadas e justificadas no âmbito de investimentos em PD&I;
+   III - Recursos humanos diretos e Indiretos; e
+   IV - material para protótipo.
+Devem ser detalhados e justificados e serão avaliados de acordo com a metodologia.
+
+ID 88
+Avaliação de Dispêndios: Demais Rubricas
+Recomendação: Uma vez optado pelo modelo do relatório simplificado, os demais dispêndios não precisam ser declarados no RDA, porém estão sujeitos à possibilidade de fiscalização da efetiva aplicação desses valores, quando necessário:
+   V - Materiais de consumo;
+   VI - aquisições de livros e periódicos técnicos;
+   VII - Viagens;
+   VIII - Treinamento;
+   IX - Serviços técnicos de terceiros; e
+   X - Outros correlatos.
+
+
+================================================================
+[Página 48] 9. DISPÊNDIOS COM AUDITORIA INDEPENDENTE
+================================================================
+
+PAGAMENTO COM AUDITORIA INDEPENDENTE
+
+ID 90 | Dispêndios com auditoria independente | Adequação | Verificar se o valor pago para a firma de auditoria está dentro do percentual
+
+ID 91 | CNPJ e Razão Social da firma de auditoria | Elegibilidade | Verificar se a firma de auditoria ainda consta como cadastrada para auditar projetos de Lei de TICs. Reprovar o gasto e avaliação da auditoria em caso negativo.
+
+ID 92 | Conflito de interesse | Elegibilidade | Verificar se Auditor e Especialista contratado pela auditoria possuem conflito de interesse no processo de auditoria da empresa. Reprovar gasto e relatório e parecer conclusivo elaborado pela Auditoria Independente.
+
+
+================================================================
+[Página 48] 10. DISPÊNDIOS COM FUNDO DE INVESTIMENTO À CAPITALIZAÇÃO DE EMPRESAS DE BASE TECNOLÓGICA – FIP
+================================================================
+
+APLICAÇÕES
+
+ID 93 | Registro do fundo na CVM | Elegibilidade | Verificar se o fundo possui registro na CVM e reprovar aplicações em caso negativo.
+
+ID 94 | Documentação comprobatória | Elegibilidade | Verificar se a empresa beneficiária anexou ao RDA os comprovantes, relatórios, declarações e informações necessárias, conforme previsto na Portaria MCTIC 5.894 de 13.11.2018. Não aprovar o investimento declarado em caso de ausência da documentação comprobatória da integralização e relatórios previstos na regulamentação.
+
+ID 95 | Caracteriza-se como empresa de base tecnológica | Elegibilidade | Verificar se empresa de base tecnológica investida pelo FIP atendem aos requisitos previsto no inciso III, art. 2º da Portaria MCTIC 5.894 de 13.11.2018. Reprovar o investimento em caso de evidência de não cumprimento de algum dos requisitos previstos no mencionado inciso.
+
+
+================================================================
+FIM DO DOCUMENTO
+================================================================
